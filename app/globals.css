@@ -7,17 +7,16 @@ html {
 }
 
 body {
-  background-color: #fbf8f2;
-  color: #1f2937;
+  background-color: #f4f8f3;
+  color: #1e2b22;
 }
 
 a, button {
   -webkit-tap-highlight-color: transparent;
 }
 
-/* Larger, clearer focus ring for accessibility */
 a:focus-visible,
 button:focus-visible {
-  outline: 3px solid #0d8c72;
+  outline: 3px solid #2f6f4f;
   outline-offset: 2px;
 }

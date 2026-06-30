@@ -1,10 +1,12 @@
 import Link from "next/link";
 import { mealTypeLabel, mealTypeColor } from "../lib/labels";
 import { getRecipeById } from "../data/recipes";
+import { cleanNote } from "../lib/cleanText";
 
 export default function MealRow({ meal }) {
   const recipe = meal.recipe_id ? getRecipeById(meal.recipe_id) : null;
   const title = recipe ? recipe.name : meal.serving;
+  const note = cleanNote(meal.notes);
 
   const content = (
     <div className="rounded-2xl p-3.5 bg-card shadow-card active:shadow-cardHover">
@@ -20,7 +22,7 @@ export default function MealRow({ meal }) {
           {meal.timing && <p className="text-xs text-gray-400 mt-1">{meal.timing}</p>}
           <p className="text-base font-bold mt-1 leading-snug text-ink">{title}</p>
           <p className="text-sm text-gray-600 mt-0.5">{meal.serving}</p>
-          {meal.notes && <p className="text-xs text-gray-500 mt-1 italic">{meal.notes}</p>}
+          {note && <p className="text-xs text-gray-500 mt-1 italic">{note}</p>}
         </div>
         {recipe && (
           <span className="shrink-0 text-xs font-bold text-accentDark bg-accentSoft rounded-full px-2.5 py-1">

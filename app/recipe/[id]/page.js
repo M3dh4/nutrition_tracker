@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import { recipes, getRecipeById } from "../../../data/recipes";
 import BackButton from "../../../components/BackButton";
+import { cleanDescription, cleanTips } from "../../../lib/cleanText";
 
 export function generateStaticParams() {
   return recipes.map((r) => ({ id: r.id }));
@@ -10,12 +11,15 @@ export default function RecipePage({ params }) {
   const recipe = getRecipeById(params.id);
   if (!recipe) return notFound();
 
+  const description = cleanDescription(recipe.description);
+  const tips = cleanTips(recipe.tips);
+
   return (
     <div>
       <BackButton label="Back" />
 
       <h1 className="text-xl font-bold mb-1">{recipe.name}</h1>
-      {recipe.description && <p className="text-gray-600 mb-4">{recipe.description}</p>}
+      {description && <p className="text-gray-600 mb-4">{description}</p>}
 
       <div className="flex flex-wrap gap-2 text-sm font-semibold mb-6">
         {recipe.prep_time && (
@@ -82,11 +86,11 @@ export default function RecipePage({ params }) {
         </section>
       )}
 
-      {recipe.tips && recipe.tips.length > 0 && (
+      {tips.length > 0 && (
         <section className="mb-6">
           <h2 className="text-lg font-bold mb-2 text-accentDark">Tips</h2>
           <ul className="space-y-1.5 text-base bg-card shadow-card rounded-2xl p-4">
-            {recipe.tips.map((tip, idx) => (
+            {tips.map((tip, idx) => (
               <li key={idx} className="flex gap-2">
                 <span className="text-accent">•</span>
                 <span>{tip}</span>
