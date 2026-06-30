@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { mealPlans, getWeekPlan } from "../../../data/mealPlans";
 import WeekDayView from "../../../components/WeekDayView";
 import BackButton from "../../../components/BackButton";
+import GroceryListModal from "../../../components/GroceryListModal";
 
 export function generateStaticParams() {
   return mealPlans.map((w) => ({ id: String(w.week) }));
@@ -45,6 +46,8 @@ export default function WeekPage({ params }) {
         )}
       </div>
       {week.notes && <p className="text-xs text-gray-500 mb-4 text-center">{week.notes}</p>}
+
+      <GroceryListModal week={week} />
 
       <WeekDayView days={week.days} />
     </div>

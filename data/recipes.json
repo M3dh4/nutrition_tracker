@@ -1111,7 +1111,7 @@
       }
     ],
     "instructions": [
-      "Heat 1 tbsp oil in a pan, add chopped vegetables of choice (onion, tomato, green peas, etc.) and saut\u00e9.",
+      "Heat 1 tbsp oil in a pan, add chopped vegetables of choice (onion, tomato, green peas, etc.) and sauté.",
       "Add salt and lemon to season.",
       "Add oats with a little water and cook until water is absorbed.",
       "Follow the same method as Semiya Upma per the BASIC_HEALTHY_DIET guide."
@@ -1165,7 +1165,7 @@
       }
     ],
     "instructions": [
-      "Heat oil, saut\u00e9 vegetables of choice with green peas.",
+      "Heat oil, sauté vegetables of choice with green peas.",
       "Add broken wheat and water, cook until water is absorbed and wheat is tender.",
       "Follow the same general method as Semiya Upma per the BASIC_HEALTHY_DIET guide."
     ],
@@ -1365,7 +1365,7 @@
       }
     ],
     "instructions": [
-      "Heat 1 tbsp oil and saut\u00e9 vegetables of choice.",
+      "Heat 1 tbsp oil and sauté vegetables of choice.",
       "Add salt and lemon.",
       "Add soaked poha and mix well; cook briefly until combined."
     ],
@@ -1423,7 +1423,7 @@
       }
     ],
     "instructions": [
-      "Heat oil, saut\u00e9 grated beetroot and vegetables of choice.",
+      "Heat oil, sauté grated beetroot and vegetables of choice.",
       "Add 1 cup water per cup semiya and bring to boil.",
       "Add semiya and cook until water is absorbed."
     ],
@@ -1446,7 +1446,7 @@
     "id": "bottle-gourd-oats",
     "original_recipe": null,
     "name": "Grated Bottle Gourd Oats",
-    "description": "Sweet or savory oats porridge with saut\u00e9ed bottle gourd, milk and dates; the signature breakfast of Week 7 (Bottle Gourd Week).",
+    "description": "Sweet or savory oats porridge with sautéed bottle gourd, milk and dates; the signature breakfast of Week 7 (Bottle Gourd Week).",
     "category": "main",
     "cuisine": "indian",
     "meal_types": [
@@ -1483,7 +1483,7 @@
       }
     ],
     "instructions": [
-      "Saut\u00e9 1 cup grated bottle gourd in 1/2 tbsp ghee until the raw smell goes.",
+      "Sauté 1 cup grated bottle gourd in 1/2 tbsp ghee until the raw smell goes.",
       "Add 3 tbsp oats, 80ml milk, sufficient water, and 1 date.",
       "Cook until thickened.",
       "Top with nuts and serve hot.",
@@ -2249,7 +2249,7 @@
     ],
     "instructions": [
       "Heat a small amount of oil in a pan.",
-      "Saut\u00e9 plenty of chopped capsicum until softened.",
+      "Sauté plenty of chopped capsicum until softened.",
       "Add crumbled paneer and cook briefly, stirring like a bhurji (scramble).",
       "Season with salt and any spices of choice; serve hot."
     ],
@@ -2279,7 +2279,7 @@
     "id": "soya-bhurji-carrot",
     "original_recipe": "egg-omelette-carrot",
     "name": "Soya Bhurji with Carrot",
-    "description": "A protein-rich scrambled breakfast using boiled, crumbled soya chunks with grated carrot \u2014 a common Indian-household alternative to paneer or egg bhurji.",
+    "description": "A protein-rich scrambled breakfast using boiled, crumbled soya chunks with grated carrot — a common Indian-household alternative to paneer or egg bhurji.",
     "category": "main",
     "cuisine": "indian",
     "meal_types": [
@@ -2313,7 +2313,7 @@
     "instructions": [
       "Boil soya chunks in water for 8-10 minutes until soft, then drain and squeeze out excess water.",
       "Crumble the soya chunks finely by hand.",
-      "Saut\u00e9 onion, grated carrot, and spices in a little oil; add the crumbled soya and cook 5 minutes.",
+      "Sauté onion, grated carrot, and spices in a little oil; add the crumbled soya and cook 5 minutes.",
       "Serve hot, garnished with coriander."
     ],
     "nutrition": {
@@ -3224,7 +3224,7 @@
       }
     ],
     "instructions": [
-      "Make a beetroot paneer bhurji (saut\u00e9 grated beetroot with crumbled paneer and spices).",
+      "Make a beetroot paneer bhurji (sauté grated beetroot with crumbled paneer and spices).",
       "Mix into cooked rice.",
       "Adjust spices to taste."
     ],
@@ -3566,7 +3566,7 @@
       }
     ],
     "instructions": [
-      "Saut\u00e9 chopped capsicum with minimal oil and spices until tender."
+      "Sauté chopped capsicum with minimal oil and spices until tender."
     ],
     "nutrition": {
       "calories": 80,
@@ -3797,7 +3797,7 @@
       }
     ],
     "instructions": [
-      "Saut\u00e9 chopped bhindi with minimal oil and spices until cooked through."
+      "Sauté chopped bhindi with minimal oil and spices until cooked through."
     ],
     "nutrition": {
       "calories": 100,
@@ -3850,7 +3850,7 @@
       }
     ],
     "instructions": [
-      "Heat oil in a pan, saut\u00e9 lots of chopped vegetables of choice.",
+      "Heat oil in a pan, sauté lots of chopped vegetables of choice.",
       "Add soya chunks and stir-fry briefly.",
       "Add cooked rice and toss together with salt and spices.",
       "Serve with salad and beetroot raita."
@@ -3878,8 +3878,8 @@
   {
     "id": "paneer-saute-mixed-veg",
     "original_recipe": "boiled-egg-white-paneer-saute",
-    "name": "Paneer Saut\u00e9 with Mixed Vegetables (Vegetarian)",
-    "description": "Vegetarian-only version of the Week 2 lunch option '3 boiled egg whites OR 4-5 pieces paneer saut\u00e9 with mixed vegetables' (Days 6 & 7). The source document already offered paneer as an alternative; this entry standardizes on the all-vegetarian version.",
+    "name": "Paneer Sauté with Mixed Vegetables (Vegetarian)",
+    "description": "Vegetarian-only version of the Week 2 lunch option '3 boiled egg whites OR 4-5 pieces paneer sauté with mixed vegetables' (Days 6 & 7). The source document already offered paneer as an alternative; this entry standardizes on the all-vegetarian version.",
     "category": "main",
     "cuisine": "indian",
     "meal_types": [
@@ -3906,7 +3906,7 @@
       }
     ],
     "instructions": [
-      "Saut\u00e9 mixed vegetables of choice with minimal oil and spices.",
+      "Sauté mixed vegetables of choice with minimal oil and spices.",
       "Add paneer pieces and toss together briefly.",
       "Serve hot."
     ],
@@ -3919,7 +3919,7 @@
       "estimated": true
     },
     "substitutions": [
-      "Roasted tofu saut\u00e9 (priority 2)"
+      "Roasted tofu sauté (priority 2)"
     ],
     "tips": [
       "Original document already listed paneer as an alternative to the egg-white option; this entry simply standardizes to the vegetarian path."
@@ -3997,8 +3997,8 @@
   {
     "id": "sauted-veggies-paneer",
     "original_recipe": null,
-    "name": "Saut\u00e9ed Vegetables with Paneer",
-    "description": "Simple saut\u00e9ed seasonal vegetables with a portion of paneer, repeated as a dinner option across multiple weeks.",
+    "name": "Sautéed Vegetables with Paneer",
+    "description": "Simple sautéed seasonal vegetables with a portion of paneer, repeated as a dinner option across multiple weeks.",
     "category": "main",
     "cuisine": "indian",
     "meal_types": [
@@ -4031,7 +4031,7 @@
     ],
     "instructions": [
       "Heat 1 tbsp oil in a kadai, add chopped vegetables (any except potato and raw banana).",
-      "Saut\u00e9 for a few minutes.",
+      "Sauté for a few minutes.",
       "Sprinkle salt and spices.",
       "Add paneer pieces and toss together briefly."
     ],
@@ -4479,8 +4479,8 @@
   {
     "id": "boiled-chickpeas-rajma-saute",
     "original_recipe": null,
-    "name": "Saut\u00e9ed Vegetables with Boiled Chickpeas or Rajma",
-    "description": "Saut\u00e9ed mixed vegetables with boiled chickpeas or rajma, paired with tomato soup; Week 11 dinner.",
+    "name": "Sautéed Vegetables with Boiled Chickpeas or Rajma",
+    "description": "Sautéed mixed vegetables with boiled chickpeas or rajma, paired with tomato soup; Week 11 dinner.",
     "category": "main",
     "cuisine": "indian",
     "meal_types": [
@@ -4507,7 +4507,7 @@
       }
     ],
     "instructions": [
-      "Saut\u00e9 any vegetables of choice with minimal oil.",
+      "Sauté any vegetables of choice with minimal oil.",
       "Add boiled chickpeas or rajma (40g boiled) and toss together.",
       "Serve alongside tomato soup."
     ],
@@ -4683,7 +4683,7 @@
     "id": "soya-chunks-curry",
     "original_recipe": "egg-white-curry",
     "name": "Soya Chunks Curry",
-    "description": "A light home-style tomato-onion curry made with soya chunks instead of paneer \u2014 high protein, lower fat, and a pantry staple in most Indian households.",
+    "description": "A light home-style tomato-onion curry made with soya chunks instead of paneer — high protein, lower fat, and a pantry staple in most Indian households.",
     "category": "main",
     "cuisine": "indian",
     "meal_types": [
@@ -4745,7 +4745,7 @@
     "id": "soya-keema-franky",
     "original_recipe": "egg-franky-palak-chapathi",
     "name": "Soya Keema Franky with Palak Chapathi",
-    "description": "A spiced soya keema (minced soya granules) rolled into a spinach flatbread wrap \u2014 a popular Indian-household protein swap, lighter than paneer.",
+    "description": "A spiced soya keema (minced soya granules) rolled into a spinach flatbread wrap — a popular Indian-household protein swap, lighter than paneer.",
     "category": "main",
     "cuisine": "indian",
     "meal_types": [
@@ -4793,7 +4793,7 @@
       "Tofu franky (priority 2)"
     ],
     "tips": [
-      "Soya granules (keema-style) work well here if you can't find chunks \u2014 just soak briefly before cooking."
+      "Soya granules (keema-style) work well here if you can't find chunks — just soak briefly before cooking."
     ],
     "storage": "Best served fresh.",
     "tags": [
@@ -4856,6 +4856,352 @@
     "tags": [
       "dinner",
       "high_protein"
+    ]
+  },
+  {
+    "id": "beetroot-cutlet",
+    "original_recipe": null,
+    "name": "Beetroot Cutlet",
+    "description": "Pan-roasted (no deep-fry) beetroot and potato cutlets spiced with ginger, green chilli and roasted cumin — a low-oil snack/breakfast option that doubles as a teatime favourite.",
+    "category": "snack",
+    "cuisine": "indian",
+    "meal_types": [
+      "breakfast",
+      "mid_evening",
+      "dinner"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient_id": "beetroot",
+        "amount": "1 cup",
+        "notes": "boiled and grated"
+      },
+      {
+        "ingredient_id": "potato",
+        "amount": "1/2 cup",
+        "notes": "boiled and mashed, used sparingly as binder"
+      },
+      {
+        "ingredient_id": "moong-dal",
+        "amount": "2 tbsp",
+        "notes": "boiled, mashed — adds protein and helps binding without breadcrumbs"
+      },
+      {
+        "ingredient_id": "onion",
+        "amount": "2 tbsp",
+        "notes": "finely chopped, optional"
+      },
+      {
+        "ingredient_id": "ginger",
+        "amount": "1/2 tsp",
+        "notes": "grated"
+      },
+      {
+        "ingredient_id": "green-chillies",
+        "amount": "1",
+        "notes": "finely chopped, to taste"
+      },
+      {
+        "ingredient_id": "coriander-leaves",
+        "amount": "2 tbsp",
+        "notes": "chopped"
+      },
+      {
+        "ingredient_id": "cumin-zeera",
+        "amount": "1/2 tsp",
+        "notes": "roasted and crushed"
+      },
+      {
+        "ingredient_id": "black-pepper",
+        "amount": "1/4 tsp",
+        "notes": "to taste"
+      }
+    ],
+    "instructions": [
+      "Boil and grate the beetroot; boil and lightly mash the potato and moong dal separately.",
+      "Combine beetroot, potato, moong dal, onion, ginger, green chilli, coriander, cumin and pepper in a bowl.",
+      "Mix well and shape into small flat patties (cutlets); chill 10 minutes if the mixture feels soft.",
+      "Heat a non-stick tawa with a few drops of oil; pan-roast cutlets on low-medium heat 4-5 minutes per side until a crust forms.",
+      "Serve hot with mint-coriander chutney or a side salad."
+    ],
+    "nutrition": {
+      "calories": 190,
+      "protein_g": 7,
+      "carbs_g": 28,
+      "fat_g": 5,
+      "fiber_g": 6,
+      "estimated": true
+    },
+    "substitutions": [
+      "Swap potato for boiled sweet potato to lower glycemic load further.",
+      "Add 1 tbsp oats powder instead of moong dal mash if preferred as a binder."
+    ],
+    "tips": [
+      "Pan-roast rather than deep fry to keep this diabetes/BP friendly.",
+      "Pairs well as a breakfast item with curd, or as an evening snack."
+    ],
+    "storage": "Shape cutlets ahead and refrigerate raw for up to 1 day; cook fresh before serving.",
+    "tags": [
+      "breakfast",
+      "snack",
+      "low_oil",
+      "high_fiber"
+    ]
+  },
+  {
+    "id": "kala-chana-sundal",
+    "original_recipe": null,
+    "name": "Kala Chana Sundal",
+    "description": "South Indian style boiled black chickpea sundal tempered with mustard seeds, curry leaves and coconut — a protein and fibre-rich snack/breakfast option.",
+    "category": "snack",
+    "cuisine": "indian",
+    "meal_types": [
+      "breakfast",
+      "mid_morning",
+      "mid_evening"
+    ],
+    "prep_time": "10 min (plus soaking overnight)",
+    "cook_time": "15 min",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient_id": "black-chana",
+        "amount": "1 cup",
+        "notes": "soaked overnight and boiled until soft"
+      },
+      {
+        "ingredient_id": "mustard-seeds",
+        "amount": "1/2 tsp",
+        "notes": "for tempering"
+      },
+      {
+        "ingredient_id": "curry-leaves",
+        "amount": "few",
+        "notes": ""
+      },
+      {
+        "ingredient_id": "green-chillies",
+        "amount": "1",
+        "notes": "finely chopped"
+      },
+      {
+        "ingredient_id": "coconut-grated",
+        "amount": "2 tbsp",
+        "notes": "fresh, optional"
+      },
+      {
+        "ingredient_id": "lemon",
+        "amount": "1/2",
+        "notes": "juiced"
+      },
+      {
+        "ingredient_id": "coriander-leaves",
+        "amount": "2 tbsp",
+        "notes": "chopped, for garnish"
+      }
+    ],
+    "instructions": [
+      "Soak black chana (kala chana) overnight; pressure cook until soft but not mushy. Drain.",
+      "Heat a teaspoon of oil, add mustard seeds and let them splutter; add curry leaves and green chilli.",
+      "Add the boiled chana and toss for 2-3 minutes on low heat.",
+      "Stir in grated coconut, a squeeze of lemon, and chopped coriander.",
+      "Serve warm or at room temperature."
+    ],
+    "nutrition": {
+      "calories": 195,
+      "protein_g": 10,
+      "carbs_g": 28,
+      "fat_g": 5,
+      "fiber_g": 9,
+      "estimated": true
+    },
+    "substitutions": [
+      "Use kabuli chana or a mix of both for variety.",
+      "Skip coconut to lighten further if needed."
+    ],
+    "tips": [
+      "High fibre and protein with a low glycemic load — a good rotation item to replace heavier smoothie/oats breakfasts.",
+      "Make a double batch and store boiled chana for next-day use."
+    ],
+    "storage": "Boiled chana keeps refrigerated for 2 days; temper fresh just before serving.",
+    "tags": [
+      "breakfast",
+      "snack",
+      "high_protein",
+      "high_fiber",
+      "south_indian"
+    ]
+  },
+  {
+    "id": "sprouts-salad",
+    "original_recipe": null,
+    "name": "Sprouts Salad",
+    "description": "A crunchy raw moong sprouts salad with tomato, onion, cucumber and a lemon-cumin dressing — a quick, no-cook, high-protein breakfast or lunch side.",
+    "category": "salad",
+    "cuisine": "indian",
+    "meal_types": [
+      "breakfast",
+      "lunch",
+      "mid_morning"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "0 min",
+    "servings": 1,
+    "ingredients": [
+      {
+        "ingredient_id": "sprouts",
+        "amount": "1 cup",
+        "notes": "moong sprouts, washed"
+      },
+      {
+        "ingredient_id": "tomato",
+        "amount": "1/4 cup",
+        "notes": "finely chopped"
+      },
+      {
+        "ingredient_id": "onion",
+        "amount": "2 tbsp",
+        "notes": "finely chopped"
+      },
+      {
+        "ingredient_id": "cucumber",
+        "amount": "1/4 cup",
+        "notes": "diced"
+      },
+      {
+        "ingredient_id": "lemon",
+        "amount": "1/2",
+        "notes": "juiced"
+      },
+      {
+        "ingredient_id": "coriander-leaves",
+        "amount": "1 tbsp",
+        "notes": "chopped"
+      },
+      {
+        "ingredient_id": "cumin-zeera",
+        "amount": "1/4 tsp",
+        "notes": "roasted and crushed"
+      },
+      {
+        "ingredient_id": "black-pepper",
+        "amount": "1/4 tsp",
+        "notes": "to taste"
+      }
+    ],
+    "instructions": [
+      "Lightly steam the sprouts for 3-4 minutes if preferred soft, or use raw for extra crunch.",
+      "Toss sprouts with tomato, onion and cucumber in a bowl.",
+      "Add lemon juice, roasted cumin powder, black pepper and a pinch of salt-substitute spice mix.",
+      "Garnish with coriander and serve immediately."
+    ],
+    "nutrition": {
+      "calories": 150,
+      "protein_g": 10,
+      "carbs_g": 22,
+      "fat_g": 2,
+      "fiber_g": 7,
+      "estimated": true
+    },
+    "substitutions": [
+      "Add a tablespoon of pomegranate seeds for sweetness without added sugar.",
+      "Mix in boiled kabuli chana for a heartier version."
+    ],
+    "tips": [
+      "Very low glycemic load — good lighter alternative to smoothie-heavy breakfast rotations.",
+      "Steaming sprouts briefly improves digestibility without losing much nutrition."
+    ],
+    "storage": "Best eaten fresh; sprouts can be pre-soaked/sprouted in batches for the week.",
+    "tags": [
+      "breakfast",
+      "salad",
+      "no_cook",
+      "high_protein",
+      "high_fiber"
+    ]
+  },
+  {
+    "id": "moong-dal-cheela",
+    "original_recipe": null,
+    "name": "Moong Dal Cheela",
+    "description": "Savoury crepes made from ground whole green moong dal batter, cooked on a non-stick tawa with minimal oil — a plain, protein-forward alternative to the besan and oats chillas already in rotation.",
+    "category": "breakfast",
+    "cuisine": "indian",
+    "meal_types": [
+      "breakfast",
+      "dinner"
+    ],
+    "prep_time": "10 min (plus 2 hr soaking)",
+    "cook_time": "15 min",
+    "servings": 2,
+    "ingredients": [
+      {
+        "ingredient_id": "green-moong",
+        "amount": "1 cup",
+        "notes": "soaked 2 hours, ground to a smooth batter"
+      },
+      {
+        "ingredient_id": "ginger",
+        "amount": "1/2 tsp",
+        "notes": "grated"
+      },
+      {
+        "ingredient_id": "green-chillies",
+        "amount": "1",
+        "notes": "finely chopped"
+      },
+      {
+        "ingredient_id": "onion",
+        "amount": "2 tbsp",
+        "notes": "finely chopped"
+      },
+      {
+        "ingredient_id": "coriander-leaves",
+        "amount": "2 tbsp",
+        "notes": "chopped"
+      },
+      {
+        "ingredient_id": "cumin-zeera",
+        "amount": "1/2 tsp",
+        "notes": "whole or crushed"
+      },
+      {
+        "ingredient_id": "asafoetida-hing",
+        "amount": "pinch",
+        "notes": "optional, aids digestion"
+      }
+    ],
+    "instructions": [
+      "Soak whole green moong dal for 2 hours; grind to a smooth, pourable batter with minimal water.",
+      "Stir in ginger, green chilli, onion, coriander, cumin and a pinch of hing.",
+      "Heat a non-stick tawa, pour a ladle of batter and spread thin into a crepe.",
+      "Drizzle a few drops of oil around the edges; cook until the base is golden, flip and cook the other side.",
+      "Serve hot with mint chutney or curd."
+    ],
+    "nutrition": {
+      "calories": 185,
+      "protein_g": 11,
+      "carbs_g": 26,
+      "fat_g": 3,
+      "fiber_g": 6,
+      "estimated": true
+    },
+    "substitutions": [
+      "Add grated vegetables (carrot, bottle gourd) to the batter for extra fibre.",
+      "Use yellow moong dal for a softer texture if preferred."
+    ],
+    "tips": [
+      "Plain and protein-dense — a good lighter rotation item distinct from the besan/oats chillas already used.",
+      "Batter can be refrigerated for up to a day."
+    ],
+    "storage": "Refrigerate batter up to 24 hours; cook fresh.",
+    "tags": [
+      "breakfast",
+      "high_protein",
+      "low_oil"
     ]
   }
 ]

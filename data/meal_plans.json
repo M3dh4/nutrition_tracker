@@ -17,9 +17,9 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "spinach-apple-banana-smoothie",
-            "serving": "1 glass",
-            "notes": "Spinach, apple, 1/2 banana, 2tbs sattu/oats powder, with coconut water or milk, topped with 1 tbsp flax seeds",
+            "recipe_id": "sprouts-salad",
+            "serving": "1 bowl moong sprouts salad with tomato, onion, cucumber and lemon-cumin dressing",
+            "notes": null,
             "timing": "by 10am",
             "optional_items": []
           },
@@ -571,9 +571,9 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "spinach-apple-banana-smoothie",
-            "serving": "1 glass",
-            "notes": "Apple, 1/2 banana, 2tbs sattu powder, 1tbs flaxseed, with coconut water",
+            "recipe_id": "kala-chana-sundal",
+            "serving": "1 bowl kala chana sundal, tempered with mustard seeds, curry leaves and coconut",
+            "notes": null,
             "timing": "by 10am",
             "optional_items": []
           },
@@ -1021,8 +1021,8 @@
           {
             "meal_type": "lunch",
             "recipe_id": "paneer-saute-mixed-veg",
-            "serving": "4-5 pieces paneer saut\u00e9 with mixed vegetables",
-            "notes": "VEGETARIAN-ONLY SELECTION: original text offered '3 Boiled Egg White OR 4-5 Pieces of Paneer saut\u00e9'; paneer option retained as the canonical vegetarian meal.",
+            "serving": "4-5 pieces paneer sauté with mixed vegetables",
+            "notes": "VEGETARIAN-ONLY SELECTION: original text offered '3 Boiled Egg White OR 4-5 Pieces of Paneer sauté'; paneer option retained as the canonical vegetarian meal.",
             "timing": "12:30-2:30pm",
             "optional_items": []
           },
@@ -1106,8 +1106,8 @@
           {
             "meal_type": "lunch",
             "recipe_id": "paneer-saute-mixed-veg",
-            "serving": "4-5 pieces paneer saut\u00e9 with mixed vegetables",
-            "notes": "VEGETARIAN-ONLY SELECTION: original text offered '3 Boiled Egg White OR 4-5 Pieces of Paneer saut\u00e9'; paneer option retained.",
+            "serving": "4-5 pieces paneer sauté with mixed vegetables",
+            "notes": "VEGETARIAN-ONLY SELECTION: original text offered '3 Boiled Egg White OR 4-5 Pieces of Paneer sauté'; paneer option retained.",
             "timing": "12:30-2:30pm",
             "optional_items": []
           },
@@ -1173,8 +1173,8 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "spinach-apple-banana-smoothie",
-            "serving": "1 glass with 1 tsp sattu powder, coconut water/milk, 1 tsp roasted flax seeds",
+            "recipe_id": "moong-dal-cheela",
+            "serving": "2 moong dal cheelas with mint-coriander chutney or curd",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
@@ -1359,8 +1359,8 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "spinach-apple-banana-smoothie",
-            "serving": "1 glass with sattu, coconut water/milk, flaxseed",
+            "recipe_id": "beetroot-cutlet",
+            "serving": "2-3 pan-roasted beetroot cutlets with mint-coriander chutney",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
@@ -1452,8 +1452,8 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "oats-upma-green-peas",
-            "serving": "1 cup oats upma with green peas",
+            "recipe_id": "kabuli-chana-salad",
+            "serving": "1 bowl boiled kabuli chana salad with lemon and spices",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
@@ -1638,8 +1638,8 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "spinach-apple-banana-smoothie",
-            "serving": "1 glass with sattu, coconut water/milk, flaxseed",
+            "recipe_id": "poha-mix-veg",
+            "serving": "1 cup mixed vegetable poha (no-oil/low-oil version)",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
@@ -1663,7 +1663,7 @@
           {
             "meal_type": "lunch",
             "recipe_id": "sauted-veggies-paneer",
-            "serving": "5 paneer pieces with saut\u00e9ed vegetables (~50g paneer) + 2 small chapathi",
+            "serving": "5 paneer pieces with sautéed vegetables (~50g paneer) + 2 small chapathi",
             "notes": null,
             "timing": "12:30-2:30pm",
             "optional_items": []
@@ -1872,7 +1872,7 @@
           {
             "meal_type": "dinner",
             "recipe_id": "besan-chilla",
-            "serving": "2 small mix veg besan chilla + saut\u00e9ed mixed vegetables",
+            "serving": "2 small mix veg besan chilla + sautéed mixed vegetables",
             "notes": null,
             "timing": "7-9pm",
             "optional_items": []
@@ -2026,7 +2026,7 @@
           {
             "meal_type": "dinner",
             "recipe_id": "besan-chilla",
-            "serving": "2 small mix veg besan chilla + saut\u00e9ed mixed vegetables",
+            "serving": "2 small mix veg besan chilla + sautéed mixed vegetables",
             "notes": null,
             "timing": "7-9pm",
             "optional_items": []
@@ -2455,7 +2455,7 @@
           {
             "meal_type": "dinner",
             "recipe_id": "paneer-tikka",
-            "serving": "5 pieces paneer tikka or paneer saut\u00e9ed with veggies, less oil + green chutney",
+            "serving": "5 pieces paneer tikka or paneer sautéed with veggies, less oil + green chutney",
             "notes": null,
             "timing": "7-9pm",
             "optional_items": []
@@ -2475,8 +2475,8 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "spinach-apple-banana-smoothie",
-            "serving": "1 glass with apple, 1 banana, 5 almonds",
+            "recipe_id": "sprouts-salad",
+            "serving": "1 bowl moong sprouts salad with tomato, onion, cucumber and lemon-cumin dressing",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
@@ -2687,8 +2687,8 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "oats-upma-green-peas",
-            "serving": "1 cup oats upma with green peas",
+            "recipe_id": "kala-chana-sundal",
+            "serving": "1 bowl kala chana sundal, tempered with mustard seeds, curry leaves and coconut",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
@@ -4595,8 +4595,8 @@
         "meals": [
           {
             "meal_type": "breakfast",
-            "recipe_id": "spinach-apple-banana-smoothie",
-            "serving": "Fruit smoothie with coconut milk + flax seeds",
+            "recipe_id": "moong-dal-cheela",
+            "serving": "2 moong dal cheelas with mint-coriander chutney or curd",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
@@ -4775,8 +4775,8 @@
         "meals": [
           {
             "meal_type": "breakfast",
-            "recipe_id": "oats-upma-green-peas",
-            "serving": "1 cup oats upma with green peas",
+            "recipe_id": "beetroot-cutlet",
+            "serving": "2-3 pan-roasted beetroot cutlets with mint-coriander chutney",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
@@ -4835,8 +4835,8 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "spinach-apple-banana-smoothie",
-            "serving": "1 glass + 1 tbsp flax seeds",
+            "recipe_id": "sprouts-salad",
+            "serving": "1 bowl moong sprouts salad with tomato, onion, cucumber and lemon-cumin dressing",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
@@ -5143,8 +5143,8 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "spinach-apple-banana-smoothie",
-            "serving": "1 glass + 1 tbsp flax seeds",
+            "recipe_id": "poha-mix-veg",
+            "serving": "1 cup mixed vegetable poha (no-oil/low-oil version)",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
@@ -5381,8 +5381,8 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "spinach-apple-banana-smoothie",
-            "serving": "1 glass with coconut water/milk/plain water + 1 tbsp roasted flax seeds",
+            "recipe_id": "kala-chana-sundal",
+            "serving": "1 bowl kala chana sundal, tempered with mustard seeds, curry leaves and coconut",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
@@ -5438,7 +5438,7 @@
           {
             "meal_type": "dinner",
             "recipe_id": "boiled-chickpeas-rajma-saute",
-            "serving": "1 bowl saut\u00e9ed veggies with boiled chickpeas or rajma (40g boiled) + tomato soup",
+            "serving": "1 bowl sautéed veggies with boiled chickpeas or rajma (40g boiled) + tomato soup",
             "notes": "Avoid cucumber for dinner",
             "timing": "7-9pm",
             "optional_items": []
@@ -5693,7 +5693,7 @@
           {
             "meal_type": "dinner",
             "recipe_id": "sauted-veggies-paneer",
-            "serving": "1 bowl saut\u00e9ed vegetables with 50g paneer",
+            "serving": "1 bowl sautéed vegetables with 50g paneer",
             "notes": null,
             "timing": "7-9pm",
             "optional_items": []
@@ -5721,8 +5721,8 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "spinach-apple-banana-smoothie",
-            "serving": "1 glass with coconut water/milk/plain water + 1 tbsp roasted flax seeds",
+            "recipe_id": "moong-dal-cheela",
+            "serving": "2 moong dal cheelas with mint-coriander chutney or curd",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
@@ -5948,7 +5948,7 @@
           {
             "meal_type": "dinner",
             "recipe_id": "boiled-chickpeas-rajma-saute",
-            "serving": "1 bowl saut\u00e9ed veggies with boiled chickpeas or rajma (40g boiled) + tomato soup",
+            "serving": "1 bowl sautéed veggies with boiled chickpeas or rajma (40g boiled) + tomato soup",
             "notes": "Avoid cucumber for dinner",
             "timing": "7-9pm",
             "optional_items": []
