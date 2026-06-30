@@ -118,8 +118,8 @@
           },
           {
             "meal_type": "lunch",
-            "recipe_id": "bottle-gourd-chapathi",
-            "serving": "1 jowar roti + 50g paneer bhurji curry + salad",
+            "recipe_id": "methi-ragi-jowar-roti",
+            "serving": "1-2 methi ragi jowar rotis with salad",
             "notes": null,
             "timing": "12:30-2:30pm",
             "optional_items": []
@@ -195,8 +195,8 @@
           },
           {
             "meal_type": "lunch",
-            "recipe_id": "bottle-gourd-chapathi",
-            "serving": "1-2 no-oil rotis (half ragi + half wheat) + 1/2 bowl curd + salad",
+            "recipe_id": "missi-roti",
+            "serving": "1-2 missi rotis with salad",
             "notes": null,
             "timing": "12:30-2:30pm",
             "optional_items": []
@@ -272,8 +272,8 @@
           },
           {
             "meal_type": "lunch",
-            "recipe_id": "bottle-gourd-chapathi",
-            "serving": "1 jowar roti + 50g paneer bhurji curry + salad",
+            "recipe_id": "palak-roti",
+            "serving": "1-2 palak rotis with salad",
             "notes": null,
             "timing": "12:30-2:30pm",
             "optional_items": []
@@ -996,8 +996,8 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "moong-dal-dosa",
-            "serving": "1-2 green moong dal dosa/pesarattu + coconut chutney",
+            "recipe_id": "idly-sambar",
+            "serving": "Idly with sambar",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
@@ -1081,8 +1081,8 @@
           },
           {
             "meal_type": "breakfast",
-            "recipe_id": "moong-dal-dosa",
-            "serving": "1-2 green moong dal dosa/pesarattu + coconut chutney",
+            "recipe_id": "besan-chilla",
+            "serving": "Mixed vegetable besan chilla",
             "notes": null,
             "timing": "by 10am",
             "optional_items": []
