@@ -1,0 +1,123 @@
+{
+  "note": "Deduplicated shopping list derived from ingredients.json, grouped by grocery aisle/category for ease of generating shopping lists. Items marked 'restricted' should NOT be purchased/used per program guidelines and are listed only for completeness.",
+  "produce_vegetables": [
+    {"ingredient_id": "bottle-gourd", "name": "Bottle Gourd (Lauki)"},
+    {"ingredient_id": "ash-gourd", "name": "Ash Gourd"},
+    {"ingredient_id": "pumpkin", "name": "Pumpkin"},
+    {"ingredient_id": "carrot", "name": "Carrot"},
+    {"ingredient_id": "beetroot", "name": "Beetroot"},
+    {"ingredient_id": "capsicum", "name": "Capsicum (all colours)"},
+    {"ingredient_id": "tomato", "name": "Tomato"},
+    {"ingredient_id": "onion", "name": "Onion"},
+    {"ingredient_id": "cucumber", "name": "Cucumber"},
+    {"ingredient_id": "green-peas", "name": "Green Peas"},
+    {"ingredient_id": "bhindi", "name": "Bhindi (Okra)"},
+    {"ingredient_id": "cluster-beans", "name": "Cluster Beans"},
+    {"ingredient_id": "raw-tomato", "name": "Raw Tomato"},
+    {"ingredient_id": "mixed-vegetables-generic", "name": "Mixed seasonal vegetables (per recipe, see notes for full list)"}
+  ],
+  "produce_leafy_greens": [
+    {"ingredient_id": "spinach", "name": "Spinach"},
+    {"ingredient_id": "palak", "name": "Palak (Spinach for puree)"},
+    {"ingredient_id": "methi-leaves", "name": "Methi Leaves (Fresh Fenugreek)"},
+    {"ingredient_id": "leafy-vegetables-generic", "name": "Leafy greens of choice (amaranth, kale, lettuce, etc. - see measurements.json for full list)"}
+  ],
+  "produce_fruits": [
+    {"ingredient_id": "apple", "name": "Apple"},
+    {"ingredient_id": "banana", "name": "Banana"},
+    {"ingredient_id": "pomegranate", "name": "Pomegranate"},
+    {"ingredient_id": "dates", "name": "Dates"},
+    {"ingredient_id": "lemon", "name": "Lemon"}
+  ],
+  "produce_aromatics": [
+    {"ingredient_id": "ginger", "name": "Fresh Ginger"},
+    {"ingredient_id": "green-chillies", "name": "Green Chillies"},
+    {"ingredient_id": "garlic", "name": "Garlic"},
+    {"ingredient_id": "coriander-leaves", "name": "Coriander Leaves"},
+    {"ingredient_id": "mint-leaves", "name": "Mint Leaves"},
+    {"ingredient_id": "curry-leaves", "name": "Curry Leaves"},
+    {"ingredient_id": "tulsi-leaves", "name": "Tulsi Leaves"}
+  ],
+  "dairy": [
+    {"ingredient_id": "paneer", "name": "Paneer"},
+    {"ingredient_id": "curd", "name": "Curd"},
+    {"ingredient_id": "milk", "name": "Milk (local dairy farm, not packet/slim)"},
+    {"ingredient_id": "buttermilk", "name": "Buttermilk"},
+    {"ingredient_id": "ghee", "name": "Ghee"}
+  ],
+  "protein_soy_legumes": [
+    {"ingredient_id": "tofu", "name": "Tofu"},
+    {"ingredient_id": "soya-chunks", "name": "Soya Chunks"},
+    {"ingredient_id": "rajma", "name": "Rajma (Kidney Beans)"},
+    {"ingredient_id": "kabuli-chana", "name": "Kabuli Chana (White Chickpeas)"},
+    {"ingredient_id": "black-chana", "name": "Black Chana"},
+    {"ingredient_id": "green-moong", "name": "Green Moong (Whole)"},
+    {"ingredient_id": "moong-dal", "name": "Moong Dal (Split)"},
+    {"ingredient_id": "yellow-moong-dal", "name": "Yellow Moong Dal"},
+    {"ingredient_id": "chana-dal", "name": "Chana Dal"},
+    {"ingredient_id": "black-beans", "name": "Black Beans"},
+    {"ingredient_id": "sprouts", "name": "Sprouts (Mixed/Moong)"},
+    {"ingredient_id": "mixed-lentils", "name": "Mixed Lentils"},
+    {"ingredient_id": "dal-generic", "name": "Dal (any variety as specified per recipe)"}
+  ],
+  "grains_and_flours": [
+    {"ingredient_id": "wheat-flour", "name": "Wheat Flour (Atta)"},
+    {"ingredient_id": "ragi-flour", "name": "Ragi Flour"},
+    {"ingredient_id": "jowar-flour", "name": "Jowar Flour"},
+    {"ingredient_id": "besan-flour", "name": "Besan Flour (Chickpea/Gram Flour)"},
+    {"ingredient_id": "oats", "name": "Oats (rolled)"},
+    {"ingredient_id": "oats-flour", "name": "Oats Flour"},
+    {"ingredient_id": "rice", "name": "Rice (white, minimize use)"},
+    {"ingredient_id": "brown-rice", "name": "Brown Rice"},
+    {"ingredient_id": "semi-brown-rice", "name": "Semi-Brown Rice"},
+    {"ingredient_id": "poha", "name": "Poha (Flattened Rice)"},
+    {"ingredient_id": "semiya", "name": "Semiya (Vermicelli)"},
+    {"ingredient_id": "broken-wheat", "name": "Broken Wheat (Dalia)"},
+    {"ingredient_id": "sooji", "name": "Sooji (Semolina/Rava)"},
+    {"ingredient_id": "sattu-powder", "name": "Sattu Powder (Roasted Gram Powder)"},
+    {"ingredient_id": "millets", "name": "Millets (any variety, optional rice substitute)"},
+    {"ingredient_id": "quinoa", "name": "Quinoa (optional rice substitute)"},
+    {"ingredient_id": "cous-cous", "name": "Couscous (optional rice substitute)"},
+    {"ingredient_id": "puffed-rice", "name": "Puffed Rice (Murmura)"},
+    {"ingredient_id": "makhana", "name": "Makhana (Fox Nuts)"}
+  ],
+  "nuts_and_seeds": [
+    {"ingredient_id": "almonds", "name": "Almonds"},
+    {"ingredient_id": "walnuts", "name": "Walnuts"},
+    {"ingredient_id": "mixed-nuts-seeds", "name": "Mixed Nuts and Seeds (sunflower, pumpkin, flax)"},
+    {"ingredient_id": "chia-seeds", "name": "Chia Seeds"},
+    {"ingredient_id": "flax-seeds", "name": "Flax Seeds"},
+    {"ingredient_id": "coconut-slices", "name": "Coconut Slices"}
+  ],
+  "spices_and_seasonings": [
+    {"ingredient_id": "cinnamon", "name": "Cinnamon"},
+    {"ingredient_id": "turmeric-powder", "name": "Turmeric Powder"},
+    {"ingredient_id": "cumin-zeera", "name": "Cumin / Zeera"},
+    {"ingredient_id": "fennel-seeds", "name": "Fennel Seeds"},
+    {"ingredient_id": "methi-seeds", "name": "Methi Seeds (Fenugreek Seeds)"},
+    {"ingredient_id": "black-pepper", "name": "Black Pepper"},
+    {"ingredient_id": "kasuri-methi", "name": "Kasuri Methi"},
+    {"ingredient_id": "chaat-masala", "name": "Chaat Masala"},
+    {"ingredient_id": "salt", "name": "Salt"}
+  ],
+  "pantry_other": [
+    {"ingredient_id": "coconut-water", "name": "Coconut Water"},
+    {"ingredient_id": "coconut-milk", "name": "Coconut Milk"},
+    {"ingredient_id": "jaggery", "name": "Jaggery (use sparingly)"},
+    {"ingredient_id": "cooking-oil", "name": "Cooking Oil (cold-pressed preferred, limit 3-4 tbsp/day)"},
+    {"ingredient_id": "roasted-chana", "name": "Roasted Chana"},
+    {"ingredient_id": "popcorn", "name": "Popcorn (no butter)"},
+    {"ingredient_id": "khakra", "name": "Khakra"},
+    {"ingredient_id": "tea", "name": "Tea"},
+    {"ingredient_id": "coffee", "name": "Coffee"},
+    {"ingredient_id": "marie-biscuits", "name": "Marie Biscuits (use sparingly, packaged food generally discouraged)"}
+  ],
+  "restricted_do_not_buy": [
+    {"ingredient_id": "potato", "name": "Potato", "reason": "To be avoided/restricted throughout the program"},
+    {"ingredient_id": "raw-banana", "name": "Raw Banana / Plantain", "reason": "Excluded from general sauteed veggie mix"},
+    {"ingredient_id": "corn", "name": "Corn", "reason": "To be avoided"},
+    {"ingredient_id": "sugar", "name": "Sugar", "reason": "To be avoided"},
+    {"ingredient_id": "honey", "name": "Honey", "reason": "To be avoided"},
+    {"ingredient_id": "maida", "name": "Maida (Refined Flour)", "reason": "To be avoided"}
+  ]
+}

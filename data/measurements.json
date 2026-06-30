@@ -1,0 +1,52 @@
+{
+  "standard_measures": [
+    {"id": "m-glass", "item": "1 Glass", "measurement": "240ml, or approximately 4.5 inches tall, 3 inch diameter at top, 2 inch diameter at bottom"},
+    {"id": "m-veggies-day", "item": "Vegetables (per day)", "measurement": "200-300g allowed per day"},
+    {"id": "m-rice", "item": "Rice", "measurement": "100-120g cooked, or 40g raw; serve in a bowl approximately 2 inch height, 3 inch diameter"},
+    {"id": "m-roti", "item": "Roti", "measurement": "Should always be thin and the size of a CD; approximately 30g raw flour, or palm-sized"},
+    {"id": "m-flour-per-roti", "item": "Flour (per roti)", "measurement": "3-4 tbsp flour per roti; if using a flour combination, use 2 tbsp of each flour"},
+    {"id": "m-legumes", "item": "Rajma / Chole / Green Moong", "measurement": "40g raw, or half of a 100ml tea glass"},
+    {"id": "m-poha-oats", "item": "Poha (soaked) / Oats", "measurement": "Approximately 40g"},
+    {"id": "m-paneer", "item": "Paneer", "measurement": "Up to 60-100g per day, whenever mentioned in the meal plan"},
+    {"id": "m-poha-recipe", "item": "Poha (for cooking)", "measurement": "60-80g soaked poha for a single recipe serving"},
+    {"id": "m-semiya", "item": "Semiya (Vermicelli)", "measurement": "60-80g for upma; 40g specifically referenced in Week 11 beetroot semiya upma"},
+    {"id": "m-peanut-butter-batch", "item": "Peanut Butter (homemade batch)", "measurement": "1 cup peanuts + 1 tbsp oil, makes one jar, stores up to 1 month refrigerated"},
+    {"id": "m-green-gram-dosa-batch", "item": "Green Gram Dosa batter", "measurement": "1 cup green gram + 1/4 cup rice, soaked 5 hours to overnight"},
+    {"id": "m-chia-water", "item": "Chia Seeds Water", "measurement": "1 tbsp chia seeds soaked in 250ml water for 30 minutes (BASIC_HEALTHY_DIET guide); some weekly plans use 1 tsp per 250ml instead"},
+    {"id": "m-chia-pudding", "item": "Chia Seeds Pudding", "measurement": "2 tbsp chia seeds soaked in milk/coconut milk/beetroot juice for 1 hour"},
+    {"id": "m-black-chana-raw", "item": "Black Chana (raw, for chaat)", "measurement": "30g raw, soaked 6-7 hours, pressure cooked 2 whistles"},
+    {"id": "m-black-chana-boiled", "item": "Black Chana (boiled, for salad)", "measurement": "60-100g boiled portion depending on the week"},
+    {"id": "m-kabuli-chana", "item": "Kabuli Chana (boiled, for salad)", "measurement": "100-120g boiled portion"},
+    {"id": "m-rajma-boiled", "item": "Rajma (boiled, for salad)", "measurement": "100g boiled portion (Week 4 breakfast); 40g boiled for dinner-style sauté (Week 11)"},
+    {"id": "m-chickpea-salad", "item": "Chickpea (for salad)", "measurement": "100-120g boiled, more in carrot-week variant with extra grated carrot"},
+    {"id": "m-green-peas-chaat", "item": "Green Peas (for chaat)", "measurement": "30g raw, soaked 5-6 hours then boiled until mashable"},
+    {"id": "m-nutmeg-milk", "item": "Nutmeg Milk", "measurement": "60ml milk with a pinch of nutmeg"},
+    {"id": "m-turmeric-milk", "item": "Turmeric Milk (alternative)", "measurement": "Approximately 100ml milk with a pinch of turmeric"},
+    {"id": "m-ginger-water", "item": "Ginger Water", "measurement": "1-inch crushed ginger boiled in 250ml water for a few minutes"},
+    {"id": "m-methi-seeds-water", "item": "Methi Seeds Water", "measurement": "1 tbsp methi seeds soaked overnight in 250ml water"},
+    {"id": "m-zeera-fennel-water", "item": "Zeera + Fennel Seeds Water", "measurement": "1 tbsp each, boiled in water, filtered, served warm"},
+    {"id": "m-tulsi-cinnamon-water", "item": "Tulsi and Cinnamon Infused Water", "measurement": "4-5 tulsi leaves + 1 inch cinnamon stick in 250ml water, infused overnight"},
+    {"id": "m-lemon-water", "item": "Lemon Water", "measurement": "250ml lukewarm water with half a lemon"},
+    {"id": "m-paneer-tikka-batch", "item": "Paneer Tikka", "measurement": "5 cubes paneer (~50-80g) per serving with 2 tbsp besan marinade"},
+    {"id": "m-soup-base", "item": "Mixed Vegetable Soup (base recipe)", "measurement": "500ml water + vegetables of choice, blended and re-tempered with 1 tbsp oil"},
+    {"id": "m-oats-upma", "item": "Oats / Broken Wheat Dalia (for upma)", "measurement": "60-80g, following the same method as Semiya Upma"},
+    {"id": "m-poha-cooking-ratio", "item": "Semiya Upma (cooking ratio)", "measurement": "1 cup semiya to 1 cup water"}
+  ],
+  "water_intake": [
+    {"id": "wi-001", "timing": "On rising (early morning)", "amount": "1 glass"},
+    {"id": "wi-002", "timing": "Before every meal", "amount": "1 glass"},
+    {"id": "wi-003", "timing": "Before bedtime", "amount": "1 glass"},
+    {"id": "wi-004", "timing": "Throughout the day (general)", "amount": "Rest as per convenience - minimum 3 litres total per day"}
+  ],
+  "diet_variation_substitution_rules": [
+    {"id": "dv-001", "rule": "For more variety, rice quantity can be replaced with an equal quantity of millets, quinoa, or couscous."},
+    {"id": "dv-002", "rule": "Roti quantities can be replaced with bread, cheela, or dosa in equivalent portions."},
+    {"id": "dv-003", "rule": "Flour combinations should always be mixed in a 1:1 ratio when a recipe calls for two flours."},
+    {"id": "dv-004", "rule": "Missi roti can be replaced with bran roti."}
+  ],
+  "permitted_food_categories": {
+    "green_leafy_vegetables": ["Amaranth", "Asparagus", "Basil Leaves", "Banana Flower", "Bokchoy", "Celery", "Cilantro", "Colacasia Leaves", "Coriander", "Curry Leaves", "Dill Leaves", "Drumstick Leaves", "Garden Cress", "Gongura Leaves", "Herbs", "Kale", "Lettuce", "Methi", "Microgreens", "Mint Leaves", "Mustard Leaves", "Radish Leaves", "Red Amaranth", "Salad Leaves", "Spinach", "Spring Onions", "Swiss Chard", "Water Cress"],
+    "vegetables": ["Beans (all types)", "Brinjal/Egg Plant", "Broccoli", "Brussel Sprouts", "Cabbage", "Cabbage - Purple", "Capsicum (all colours)", "Cauliflower", "Chow Chow", "Cucumber", "Drumstick", "Field Beans", "Gourds", "Green Papaya", "Knol Kohl", "Ladies Finger/Okra", "Lotus Stem", "Mushrooms", "Onion", "Parwal", "Plantain Flower", "Radish", "Spiny Gourd", "Tinda", "Tindora (Ivy Gourd)", "Tomato", "Turnip", "Zucchini", "Carrot", "Beetroot", "Pumpkin", "Raw Mango", "Squash", "Ash Gourd", "Peas"],
+    "notes": "Reduce consumption of potato, yam, and tapioca within these categories."
+  }
+}

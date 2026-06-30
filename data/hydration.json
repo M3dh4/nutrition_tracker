@@ -1,0 +1,48 @@
+{
+  "daily_water_target": {
+    "total_minimum": "3 litres per day",
+    "schedule": [
+      {"timing": "On rising", "amount": "1 glass"},
+      {"timing": "Before every meal", "amount": "1 glass"},
+      {"timing": "Before bedtime", "amount": "1 glass"},
+      {"timing": "Remainder of the day", "amount": "As convenient, to reach the 3 litre minimum"}
+    ],
+    "general_rule": "Sip warm fluids throughout the day; avoid cold and carbonated drinks, as warm water stokes digestive fire, improves digestion, and helps prevent fat accumulation."
+  },
+  "morning_drinks": [
+    {"recipe_id": "ash-gourd-juice", "name": "Ash Gourd Juice", "frequency": "Used in Weeks 6, 7, 9, 11"},
+    {"recipe_id": "methi-seeds-water", "name": "Methi Seeds Water", "frequency": "Used in Weeks 4, 5"},
+    {"recipe_id": "lemon-water", "name": "Lemon Water", "frequency": "Used in Weeks 3, 5"},
+    {"recipe_id": "tulsi-cinnamon-water", "name": "Tulsi and Cinnamon Infused Water", "frequency": "Used in Weeks 1, 3, 7, 8, 10"},
+    {"recipe_id": "zeera-fennel-water", "name": "Zeera and Fennel Seed Water", "frequency": "Used in Week 10"},
+    {"recipe_id": "flaxseed-water", "name": "Flax Seed Powder Water", "frequency": "Used in Weeks 1, 2"},
+    {"recipe_id": "beetroot-juice", "name": "Beetroot Juice", "frequency": "Used in Week 2, 30 min before breakfast"},
+    {"recipe_id": "turmeric-tea", "name": "Turmeric Tea", "frequency": "Used as an early morning drink in Week 8"},
+    {"recipe_id": "ginger-water", "name": "Ginger Water", "frequency": "Mentioned in BASIC_HEALTHY_DIET guide as optional empty-stomach drink / constipation remedy"}
+  ],
+  "pre_meal_drinks": [
+    {"recipe_id": "chia-seeds-water", "name": "Chia Seeds Water", "timing": "30 minutes before lunch (most weeks); 15-20 minutes before dinner in some weeks"},
+    {"recipe_id": "lemon-water", "name": "Lemon Water or Buttermilk", "timing": "20 minutes before dinner, used across most weeks"},
+    {"recipe_id": "buttermilk-plain", "name": "Buttermilk", "timing": "20 minutes before dinner, alternative to lemon water"}
+  ],
+  "bedtime_drinks": [
+    {"recipe_id": "turmeric-milk", "name": "Turmeric Milk", "timing": "1 hour before bed, used across most weeks"},
+    {"recipe_id": "nutmeg-milk", "name": "Nutmeg Milk", "timing": "1 hour before bed, used in Week 11"},
+    {"recipe_id": "turmeric-tea", "name": "Turmeric Tea", "timing": "1 hour after dinner (post-dinner, not bedtime) in Weeks 4, 8, 9 - explicitly noted as 'don't skip this'"}
+  ],
+  "mid_evening_drinks": [
+    {"recipe_id": null, "name": "Juice (any, avoiding banana)", "notes": "1 glass mid-evening, used widely"},
+    {"recipe_id": "tea", "name": "Tea with less sugar", "notes": "Alternative to juice"},
+    {"recipe_id": "buttermilk-plain", "name": "Buttermilk", "notes": "Mid-evening alternative in some weeks"}
+  ],
+  "juices_and_smoothies_summary": [
+    {"recipe_id": "apple-carrot-beetroot-pomegranate-juice", "context": "Breakfast juice, Weeks 4 and 8"},
+    {"recipe_id": "apple-beetroot-juice", "context": "Breakfast juice, Week 6"},
+    {"recipe_id": "spinach-apple-banana-smoothie", "context": "Signature breakfast smoothie, repeated across nearly all weeks"}
+  ],
+  "general_beverage_restrictions": [
+    "Tea and coffee only in the evening, with less sugar, limited to 100ml per day combined.",
+    "No tea or coffee on an empty stomach.",
+    "Avoid carbonated and cold drinks generally."
+  ]
+}

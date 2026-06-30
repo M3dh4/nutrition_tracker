@@ -1,0 +1,66 @@
+{
+  "meal_timing_tips": [
+    {"id": "tt-001", "meal": "early_morning", "tip": "Have your early morning drink/item within an hour of getting up."},
+    {"id": "tt-002", "meal": "breakfast", "tip": "Remember, if you skip breakfast you will likely eat more calories extra over the rest of the day. Ideal time: do not have breakfast later than 10am."},
+    {"id": "tt-003", "meal": "mid_morning", "tip": "Have your mid-morning snack between breakfast and lunch. Ideal time: 11am-12pm."},
+    {"id": "tt-004", "meal": "lunch", "tip": "Ideal lunch time: 12:30-2:30pm. Don't have lunch later than 4pm."},
+    {"id": "tt-005", "meal": "mid_evening", "tip": "Have your mid-evening snack between lunch and dinner. Ideal time: 4-6pm."},
+    {"id": "tt-006", "meal": "dinner", "tip": "Ideal dinner time: 7-9pm. Don't have dinner later than 10pm."},
+    {"id": "tt-007", "meal": "general", "tip": "Drink 3 litres of water per day."},
+    {"id": "tt-008", "meal": "general", "tip": "Exercise: daily walk for 40-45 minutes (brisk walk), or 'moon charged walking' on weeks where specified."}
+  ],
+  "preparation_tips": [
+    {"id": "pt-001", "tip": "Smoothies should be consumed within 30 minutes of preparation."},
+    {"id": "pt-002", "tip": "No fermentation is required for instant dosa batters (e.g. green gram dosa) - can be made fresh after soaking and blending."},
+    {"id": "pt-003", "tip": "Don't add fruits if you are adding normal milk to a chia pudding or similar preparation (food combining guidance)."},
+    {"id": "pt-004", "tip": "Most curries can be made as you would at home; just use less oil, and avoid pre-made spice podis/powders such as peanut podi or dry coconut podi."},
+    {"id": "pt-005", "tip": "If short on time to make roti for lunch, substitute a cheela made with the same flour combination plus added vegetables."},
+    {"id": "pt-006", "tip": "Jowar and Ragi flours should be shaped using the 'patting' method (pat the dough by hand on a cloth or butter paper) rather than rolled, since they don't hold together well when rolled."},
+    {"id": "pt-007", "tip": "Recipes can be adapted and altered as per availability and convenience."}
+  ],
+  "posture_and_digestion_tips": [
+    {"id": "dt-001", "tip": "Vajrasan (a seated yoga posture) for at least 10 minutes should be done right after a meal, as it is known to facilitate nutrient absorption and aids in proper digestion. Avoid this posture if there is any leg or knee injury."},
+    {"id": "dt-002", "tip": "Before starting a meal, chew a one-inch piece of fresh ginger with a few drops of lemon juice and a pinch of salt. This activates salivary glands, producing the necessary enzymes for the body to more easily absorb nutrients from food."},
+    {"id": "dt-003", "tip": "Eat a small plate of salad first, before starting the main meal."},
+    {"id": "dt-004", "tip": "Turmeric tea after dinner (when prescribed in the plan) should not be skipped."}
+  ],
+  "ingredient_specific_tips": [
+    {"id": "it-001", "tip": "Skip ash gourd juice if prone to colds; alternatively, balance its coolness by adding pepper powder."},
+    {"id": "it-002", "tip": "Avoid banana in mid-evening juice."},
+    {"id": "it-003", "tip": "Avoid mango, litchi, custard apple, and grapes as evening fruit snacks on weeks where specified."},
+    {"id": "it-004", "tip": "Avoid banana, pineapple, grapes, custard apple, chikoo, and lychee for mid-morning fruit snacks on weeks where specified."},
+    {"id": "it-005", "tip": "If tulsi leaves are unavailable for the morning infused water, use cinnamon alone."},
+    {"id": "it-006", "tip": "Ginger water can also be taken on an empty stomach as a home remedy for constipation."}
+  ],
+  "general_lifestyle_tip_repeated": "I always say eat healthy and don't diet.",
+  "sample_recipe_video_references": {
+    "note": "The BASIC_HEALTHY_DIET_Guidelines document includes a list of Instagram reel/post links as visual references for many recipes. URLs are preserved here for completeness but are external third-party content, not part of the structured recipe data.",
+    "links": [
+      {"recipe_reference": "Ash Gourd Juice", "url": "https://www.instagram.com/reel/CRwGjiGp1wA/?utm_medium=copy_link"},
+      {"recipe_reference": "Pumpkin Dal Soup", "url": "https://www.instagram.com/reel/CUSg84PKaoB/?utm_medium=copy_link"},
+      {"recipe_reference": "Ragi Besan Cheela", "url": "https://www.instagram.com/reel/CR5ru31JjT7/?utm_medium=copy_link"},
+      {"recipe_reference": "Basic smoothie", "url": "https://www.instagram.com/reel/CSdpNWPJpP_/?utm_medium=copy_link"},
+      {"recipe_reference": "Green Chutney (variant 1)", "url": "https://www.instagram.com/reel/CSeQo1yJT6y/?utm_medium=copy_link"},
+      {"recipe_reference": "Green Chutney (variant 2)", "url": "https://www.instagram.com/reel/CRbr0ZpJqO3/?utm_medium=copy_link"},
+      {"recipe_reference": "Jowar Roti", "url": "https://www.instagram.com/reel/CP5xAgEp11Z/?utm_medium=copy_link"},
+      {"recipe_reference": "Smoothie (alternate sample)", "url": "https://www.instagram.com/reel/CH7NcqNpCrJ/?utm_medium=copy_link"},
+      {"recipe_reference": "Simple Besan Cheela", "url": "https://www.instagram.com/reel/CJP_mOrJQHx/?utm_medium=copy_link"},
+      {"recipe_reference": "Dalia Kitchidi/Pongal", "url": "https://www.instagram.com/tv/CGEznhcpjCn/?utm_medium=copy_link"},
+      {"recipe_reference": "Kitchidi", "url": "https://www.instagram.com/tv/CGEznhcpjCn/?utm_medium=copy_link"},
+      {"recipe_reference": "Bottle Gourd Besan Cheela", "url": "https://www.instagram.com/reel/COw9TV_plLw/?utm_medium=copy_link"},
+      {"recipe_reference": "Rajma Rice", "url": "https://www.instagram.com/reel/CPLi9ybJZb_/?utm_medium=copy_link"},
+      {"recipe_reference": "Mix Veg Soup", "url": "https://www.instagram.com/p/CJi9uuqJfuW/?utm_medium=copy_link"},
+      {"recipe_reference": "Bottle Gourd Ragi Roti", "url": "https://www.instagram.com/reel/CPYfJNlJvsz/?utm_medium=copy_link"},
+      {"recipe_reference": "Poha", "url": "https://www.instagram.com/reel/CO-o79ap0kO/?utm_medium=copy_link"},
+      {"recipe_reference": "Chia Seed Pudding", "url": "https://www.instagram.com/p/COHbYa3FkUs/?utm_medium=copy_link"},
+      {"recipe_reference": "Overnight Oats and Nuts Pudding", "url": "https://www.instagram.com/reel/CXEM_F8oESI/?utm_source=ig_web_copy_link"},
+      {"recipe_reference": "Easy Chutney (additional)", "url": "https://www.instagram.com/reel/CWigGpzqVa3/?utm_source=ig_web_copy_link"},
+      {"recipe_reference": "Urad Dal Dosa", "url": "https://www.instagram.com/reel/CVp4vGYoEh5/?utm_source=ig_web_copy_link"},
+      {"recipe_reference": "Yellow Moong Dosa", "url": "https://www.instagram.com/reel/CVkqx0jooo3/?utm_source=ig_web_copy_link"},
+      {"recipe_reference": "Chole Dosa", "url": "https://www.instagram.com/reel/CVUls2DozZb/?utm_source=ig_web_copy_link"},
+      {"recipe_reference": "Green Gram Dosa", "url": "https://www.instagram.com/reel/CVFFzFkIuEl/?utm_source=ig_web_copy_link"},
+      {"recipe_reference": "Constipation Home Remedy", "url": "https://www.instagram.com/reel/CUpvkhTojNF/?utm_source=ig_web_copy_link"},
+      {"recipe_reference": "Wheat Upma Replacement (dosa)", "url": "https://www.instagram.com/reel/CUKyH6MqK8T/?utm_source=ig_web_copy_link"}
+    ]
+  }
+}

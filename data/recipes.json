@@ -1,0 +1,2490 @@
+[
+  {
+    "id": "ash-gourd-juice",
+    "original_recipe": null,
+    "name": "Ash Gourd Juice",
+    "description": "A cooling early-morning juice made from ash gourd, used across multiple weeks as the first drink of the day.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["early_morning"],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "ash-gourd", "amount": "handful", "notes": "pieces"},
+      {"ingredient_id": "lemon", "amount": "optional, to taste", "notes": "skip if prone to cold; can balance coolness with pepper powder instead"},
+      {"ingredient_id": "black-pepper", "amount": "optional pinch", "notes": "to balance coolness if skipping lemon"}
+    ],
+    "instructions": [
+      "Take a handful of ash gourd pieces.",
+      "Add 250ml water and blend into juice.",
+      "Filter and drink.",
+      "Optionally add lemon or other flavours; can also add ginger."
+    ],
+    "nutrition": {"calories": 35, "protein_g": 1, "carbs_g": 8, "fat_g": 0, "fiber_g": 1, "estimated": true},
+    "substitutions": ["Can add lemon, ginger, or other flavours per preference"],
+    "tips": ["Skip if prone to colds, or balance the coolness with pepper powder.", "Sample recipe link referenced in source: Instagram reel (Ash Gourd Juice)."],
+    "storage": "Best consumed fresh immediately after preparing.",
+    "tags": ["early_morning_drink", "detox", "low_calorie"]
+  },
+  {
+    "id": "methi-seeds-water",
+    "original_recipe": null,
+    "name": "Methi Seeds Water",
+    "description": "Fenugreek seed-infused water consumed first thing in the morning to support digestion.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["early_morning"],
+    "prep_time": "Overnight soak",
+    "cook_time": "5 min (optional boiling)",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "methi-seeds", "amount": "1 tbsp", "notes": "soaked overnight"},
+      {"ingredient_id": "salt", "amount": "0", "notes": null}
+    ],
+    "instructions": [
+      "Soak 1 tablespoon methi seeds overnight in 250ml water.",
+      "Next morning, strain the seeds and drink the water (some versions: boil briefly, then filter and have warm)."
+    ],
+    "nutrition": {"calories": 10, "protein_g": 1, "carbs_g": 2, "fat_g": 0, "fiber_g": 1, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Prepare fresh nightly; do not store leftover strained water.",
+    "tags": ["early_morning_drink", "digestion"]
+  },
+  {
+    "id": "lemon-water",
+    "original_recipe": null,
+    "name": "Lemon Water",
+    "description": "Lukewarm water with lemon, used as an early morning or pre-dinner drink.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["early_morning", "pre_dinner"],
+    "prep_time": "2 min",
+    "cook_time": "0 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "lemon", "amount": "1/2", "notes": null},
+      {"ingredient_id": "cinnamon", "amount": "1/2 tbsp powder (optional)", "notes": "used in Week 3 variant"}
+    ],
+    "instructions": [
+      "Take 250ml lukewarm water.",
+      "Squeeze in half a lemon.",
+      "Optionally add 1/2 tbsp cinnamon powder.",
+      "Drink warm."
+    ],
+    "nutrition": {"calories": 8, "protein_g": 0, "carbs_g": 2, "fat_g": 0, "fiber_g": 0, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Prepare fresh each time.",
+    "tags": ["early_morning_drink", "pre_dinner_drink", "digestion"]
+  },
+  {
+    "id": "tulsi-cinnamon-water",
+    "original_recipe": null,
+    "name": "Tulsi and Cinnamon Infused Water",
+    "description": "Overnight-infused tulsi leaf and cinnamon stick water, taken first thing on waking on several weeks.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["early_morning"],
+    "prep_time": "Overnight infusion",
+    "cook_time": "0 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "tulsi-leaves", "amount": "4-5 leaves", "notes": "omit if unavailable, use cinnamon alone"},
+      {"ingredient_id": "cinnamon", "amount": "1 inch stick", "notes": null}
+    ],
+    "instructions": [
+      "In 250ml water, add 4-5 tulsi leaves and a 1-inch cinnamon stick.",
+      "Leave overnight.",
+      "Drink the infused water the next morning.",
+      "If tulsi is not available, use cinnamon alone."
+    ],
+    "nutrition": {"calories": 5, "protein_g": 0, "carbs_g": 1, "fat_g": 0, "fiber_g": 0, "estimated": true},
+    "substitutions": ["Cinnamon alone if tulsi unavailable"],
+    "tips": [],
+    "storage": "Prepare fresh each night.",
+    "tags": ["early_morning_drink", "digestion"]
+  },
+  {
+    "id": "zeera-fennel-water",
+    "original_recipe": null,
+    "name": "Zeera (Cumin) and Fennel Seed Water",
+    "description": "Warm cumin and fennel seed infused water for early morning, featured in the 'pumpkin week' plan.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["early_morning"],
+    "prep_time": "5 min",
+    "cook_time": "5 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "cumin-zeera", "amount": "1 tbsp", "notes": null},
+      {"ingredient_id": "fennel-seeds", "amount": "1 tbsp", "notes": null}
+    ],
+    "instructions": [
+      "Boil 1 tbsp each of cumin (zeera) and fennel seeds in 250ml water.",
+      "Filter and drink warm."
+    ],
+    "nutrition": {"calories": 10, "protein_g": 0, "carbs_g": 2, "fat_g": 0, "fiber_g": 1, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Prepare fresh each time.",
+    "tags": ["early_morning_drink", "digestion"]
+  },
+  {
+    "id": "ginger-water",
+    "original_recipe": null,
+    "name": "Ginger Water",
+    "description": "Warm ginger-infused water, suggested as an empty-stomach remedy and constipation aid.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["early_morning"],
+    "prep_time": "2 min",
+    "cook_time": "5 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "ginger", "amount": "1 inch, crushed", "notes": null}
+    ],
+    "instructions": [
+      "Into 250ml boiling water, add 1 inch of crushed ginger.",
+      "Boil for a few minutes.",
+      "Filter and drink warm."
+    ],
+    "nutrition": {"calories": 5, "protein_g": 0, "carbs_g": 1, "fat_g": 0, "fiber_g": 0, "estimated": true},
+    "substitutions": [],
+    "tips": ["Suggested as a home remedy for constipation."],
+    "storage": "Prepare fresh each time.",
+    "tags": ["early_morning_drink", "digestion"]
+  },
+  {
+    "id": "flaxseed-water",
+    "original_recipe": null,
+    "name": "Flax Seed Powder Water",
+    "description": "Empty stomach drink made by mixing flax seed powder into water.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["early_morning"],
+    "prep_time": "2 min",
+    "cook_time": "0 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "flax-seeds", "amount": "1 tbsp, powdered", "notes": null}
+    ],
+    "instructions": [
+      "Mix 1 tablespoon of flax seed powder into a glass of water.",
+      "Drink on an empty stomach."
+    ],
+    "nutrition": {"calories": 37, "protein_g": 1.3, "carbs_g": 2, "fat_g": 3, "fiber_g": 2.8, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Prepare fresh each time.",
+    "tags": ["early_morning_drink"]
+  },
+  {
+    "id": "chia-seeds-water",
+    "original_recipe": null,
+    "name": "Chia Seeds Water",
+    "description": "Soaked chia seed water consumed 30 minutes before lunch or dinner across nearly all weeks.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["pre_lunch", "pre_dinner"],
+    "prep_time": "30-60 min soak",
+    "cook_time": "0 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "chia-seeds", "amount": "1 tsp-1 tbsp", "notes": "1tsp per 250ml in most weeks; 1tbsp per 250ml in BASIC_HEALTHY_DIET guide"}
+    ],
+    "instructions": [
+      "Soak 1 teaspoon (or 1 tablespoon, per guide) of chia seeds in 250ml water.",
+      "Let rest for 30 minutes to 1 hour.",
+      "Drink 30 minutes before the meal."
+    ],
+    "nutrition": {"calories": 15, "protein_g": 0.5, "carbs_g": 1.3, "fat_g": 1, "fiber_g": 1.3, "estimated": true},
+    "substitutions": [],
+    "tips": ["Consumed consistently before lunch (and sometimes 15-20 min before dinner) across nearly every week's plan."],
+    "storage": "Prepare fresh; do not store soaked chia water for long periods.",
+    "tags": ["pre_meal_drink", "digestion"]
+  },
+  {
+    "id": "turmeric-tea",
+    "original_recipe": null,
+    "name": "Turmeric Tea",
+    "description": "A spiced turmeric tea taken after dinner or in the early morning on several weeks; not to be skipped when prescribed.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["post_dinner", "early_morning"],
+    "prep_time": "2 min",
+    "cook_time": "5 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "turmeric-powder", "amount": "2/3 tbsp", "notes": null},
+      {"ingredient_id": "ginger", "amount": "1 small inch", "notes": null},
+      {"ingredient_id": "cinnamon", "amount": "1 small inch stick or powder", "notes": null},
+      {"ingredient_id": "black-pepper", "amount": "1/5 tbsp powder", "notes": null}
+    ],
+    "instructions": [
+      "Boil 1 glass of water.",
+      "Add 2/3 tbsp turmeric powder, 1 small inch ginger, 1 small inch cinnamon stick (or powder), and 1/5 tbsp pepper powder.",
+      "Boil for 5 minutes.",
+      "Filter and drink."
+    ],
+    "nutrition": {"calories": 20, "protein_g": 0.5, "carbs_g": 3, "fat_g": 0.5, "fiber_g": 0.5, "estimated": true},
+    "substitutions": [],
+    "tips": ["Explicitly noted: don't skip this when it appears in the plan (post-dinner version)."],
+    "storage": "Prepare fresh each time.",
+    "tags": ["post_dinner_drink", "early_morning_drink", "digestion"]
+  },
+  {
+    "id": "turmeric-milk",
+    "original_recipe": null,
+    "name": "Turmeric Milk (Golden Milk)",
+    "description": "Warm milk with turmeric, taken 1 hour before bed on several weeks; can use jaggery for sweetness.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["bedtime"],
+    "prep_time": "2 min",
+    "cook_time": "5 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "milk", "amount": "~100-150ml", "notes": null},
+      {"ingredient_id": "turmeric-powder", "amount": "pinch to 1/2 tsp", "notes": null},
+      {"ingredient_id": "jaggery", "amount": "small amount, optional", "notes": "for sweetness, used sparingly"}
+    ],
+    "instructions": [
+      "Warm milk gently.",
+      "Stir in turmeric powder.",
+      "Optionally sweeten with a little jaggery.",
+      "Drink 1 hour before bed."
+    ],
+    "nutrition": {"calories": 90, "protein_g": 4, "carbs_g": 8, "fat_g": 4, "fiber_g": 0, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Prepare fresh nightly.",
+    "tags": ["bedtime_drink"]
+  },
+  {
+    "id": "nutmeg-milk",
+    "original_recipe": null,
+    "name": "Nutmeg Milk",
+    "description": "Warm milk with a pinch of nutmeg, taken before bed; turmeric milk offered as an alternative.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["bedtime"],
+    "prep_time": "2 min",
+    "cook_time": "3 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "milk", "amount": "60ml", "notes": null}
+    ],
+    "instructions": [
+      "Warm 60ml milk.",
+      "Add a pinch of nutmeg.",
+      "Drink 1 hour before bed."
+    ],
+    "nutrition": {"calories": 45, "protein_g": 2, "carbs_g": 4, "fat_g": 2, "fiber_g": 0, "estimated": true},
+    "substitutions": ["Turmeric milk with ~100ml milk and a pinch of turmeric, in place of nutmeg milk"],
+    "tips": [],
+    "storage": "Prepare fresh nightly.",
+    "tags": ["bedtime_drink"]
+  },
+  {
+    "id": "buttermilk-plain",
+    "original_recipe": null,
+    "name": "Plain Buttermilk",
+    "description": "Simple buttermilk used as a pre-dinner drink or evening snack across several weeks.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["pre_dinner", "mid_evening"],
+    "prep_time": "2 min",
+    "cook_time": "0 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "buttermilk", "amount": "1 glass", "notes": null}
+    ],
+    "instructions": [
+      "Pour 1 glass of buttermilk and drink."
+    ],
+    "nutrition": {"calories": 40, "protein_g": 2, "carbs_g": 5, "fat_g": 1, "fiber_g": 0, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best consumed fresh.",
+    "tags": ["pre_dinner_drink", "mid_evening_snack"]
+  },
+  {
+    "id": "beetroot-juice",
+    "original_recipe": null,
+    "name": "Beetroot Juice",
+    "description": "Fresh beetroot juice taken 30 minutes before breakfast in Week 2.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["early_morning"],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "beetroot", "amount": "1 medium", "notes": null}
+    ],
+    "instructions": [
+      "Blend beetroot with water into juice.",
+      "Drink 30 minutes before breakfast."
+    ],
+    "nutrition": {"calories": 45, "protein_g": 1.5, "carbs_g": 10, "fat_g": 0, "fiber_g": 2, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Prepare fresh.",
+    "tags": ["early_morning_drink"]
+  },
+  {
+    "id": "apple-carrot-beetroot-pomegranate-juice",
+    "original_recipe": null,
+    "name": "Apple Carrot Beetroot Pomegranate Juice",
+    "description": "A mixed fruit-vegetable juice used as a breakfast option in Weeks 4 and 8 (carrot week).",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "10 min",
+    "cook_time": "0 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "apple", "amount": "1", "notes": null},
+      {"ingredient_id": "carrot", "amount": "1", "notes": null},
+      {"ingredient_id": "beetroot", "amount": "1 small", "notes": null},
+      {"ingredient_id": "pomegranate", "amount": "1/2 cup seeds", "notes": null},
+      {"ingredient_id": "coconut-water", "amount": "optional, to mix", "notes": null}
+    ],
+    "instructions": [
+      "Juice or blend apple, carrot, beetroot, and pomegranate together.",
+      "Optionally mix with coconut water or plain water.",
+      "If hungry, can add 8-10 soaked almonds."
+    ],
+    "nutrition": {"calories": 140, "protein_g": 2, "carbs_g": 32, "fat_g": 0.5, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best consumed fresh.",
+    "tags": ["breakfast", "juice"]
+  },
+  {
+    "id": "apple-beetroot-juice",
+    "original_recipe": null,
+    "name": "Apple Beetroot Juice",
+    "description": "Simple two-ingredient juice paired with poha in Week 6.",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "apple", "amount": "1", "notes": null},
+      {"ingredient_id": "beetroot", "amount": "1 small", "notes": null}
+    ],
+    "instructions": [
+      "Blend apple and beetroot with water into juice.",
+      "Serve alongside 1/2 bowl poha."
+    ],
+    "nutrition": {"calories": 110, "protein_g": 1.5, "carbs_g": 26, "fat_g": 0.3, "fiber_g": 3, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best consumed fresh.",
+    "tags": ["breakfast", "juice"]
+  },
+  {
+    "id": "spinach-apple-banana-smoothie",
+    "original_recipe": null,
+    "name": "Spinach Apple Banana Smoothie",
+    "description": "The program's signature breakfast smoothie, appearing across nearly every week with minor variation (sattu powder, flaxseeds, coconut water/milk).",
+    "category": "beverage",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "spinach", "amount": "handful", "notes": null},
+      {"ingredient_id": "apple", "amount": "1", "notes": null},
+      {"ingredient_id": "banana", "amount": "1/2 to 1", "notes": "optional in some weeks"},
+      {"ingredient_id": "sattu-powder", "amount": "1-2 tsp/tbsp", "notes": "optional, roasted gram powder"},
+      {"ingredient_id": "flax-seeds", "amount": "1 tbsp, roasted", "notes": "topped on smoothie"},
+      {"ingredient_id": "coconut-water", "amount": "to blend, or use coconut milk/plain water", "notes": null}
+    ],
+    "instructions": [
+      "Add a handful of spinach, apple, and banana to a blender.",
+      "Add sattu powder if using.",
+      "Add coconut water, coconut milk, or plain water and blend into a smoothie.",
+      "Top with 1 tbsp roasted flax seeds before serving.",
+      "Fruits can be altered based on availability."
+    ],
+    "nutrition": {"calories": 180, "protein_g": 4, "carbs_g": 35, "fat_g": 4, "fiber_g": 5, "estimated": true},
+    "substitutions": ["Fruits can be swapped based on availability per source notes"],
+    "tips": [],
+    "storage": "Best consumed within 30 minutes of preparing.",
+    "tags": ["breakfast", "smoothie"]
+  },
+  {
+    "id": "besan-chilla",
+    "original_recipe": null,
+    "name": "Mixed Vegetable Besan Chilla",
+    "description": "Savory gram-flour pancake (chilla/cheela) with mixed vegetables, used at breakfast or dinner across many weeks.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast", "dinner"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "besan-flour", "amount": "1 cup", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1 cup, chopped", "notes": "onion, tomato, capsicum, etc."},
+      {"ingredient_id": "cooking-oil", "amount": "as needed (within daily limit)", "notes": null},
+      {"ingredient_id": "salt", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Add chopped vegetables of choice to besan flour.",
+      "Mix with water into a dosa-like batter.",
+      "Pour onto a hot tawa and cook both sides into a chilla/cheela.",
+      "Serve with green chutney."
+    ],
+    "nutrition": {"calories": 220, "protein_g": 9, "carbs_g": 28, "fat_g": 7, "fiber_g": 5, "estimated": true},
+    "substitutions": ["Can make with any flour combination as a 'cheela' per BASIC_HEALTHY_DIET guide (e.g., oats, ragi)"],
+    "tips": ["No fermentation required.", "Reference recipe link: Instagram reel (Ragi Besan Cheela)."],
+    "storage": "Best served fresh and hot.",
+    "tags": ["breakfast", "dinner", "no_oil_option"]
+  },
+  {
+    "id": "carrot-besan-chilla",
+    "original_recipe": null,
+    "name": "Carrot Besan Chilla",
+    "description": "Besan chilla variant with grated carrot, used in Week 6 (Day 1,2) and as part of Week 8's carrot-week lunch/dinner roti.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast", "lunch", "dinner"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "besan-flour", "amount": "1 cup", "notes": null},
+      {"ingredient_id": "carrot", "amount": "grated, to taste", "notes": null},
+      {"ingredient_id": "onion", "amount": "optional", "notes": null},
+      {"ingredient_id": "tomato", "amount": "optional", "notes": null},
+      {"ingredient_id": "green-chillies", "amount": "optional", "notes": null}
+    ],
+    "instructions": [
+      "Mix besan flour with grated carrots, and optionally onion, tomato, green chillies.",
+      "Add enough water to make a dosa-like batter.",
+      "Cook on a hot tawa into a cheela/dosa."
+    ],
+    "nutrition": {"calories": 210, "protein_g": 8, "carbs_g": 26, "fat_g": 6, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh.",
+    "tags": ["breakfast", "lunch", "dinner"]
+  },
+  {
+    "id": "beetroot-besan-chilla",
+    "original_recipe": null,
+    "name": "Beetroot Besan Chilla / Dosa",
+    "description": "Beetroot-flavoured besan chilla, the breakfast (and sometimes repeated as dinner) dish for Week 9's 'Beetroot Week'.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast", "dinner"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "besan-flour", "amount": "1 cup", "notes": null},
+      {"ingredient_id": "beetroot", "amount": "grated, to taste", "notes": null}
+    ],
+    "instructions": [
+      "Mix besan flour with grated beetroot and water into a batter.",
+      "Cook on tawa into a chilla/dosa.",
+      "Serve with green chutney."
+    ],
+    "nutrition": {"calories": 215, "protein_g": 8, "carbs_g": 27, "fat_g": 6, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh.",
+    "tags": ["breakfast", "dinner"]
+  },
+  {
+    "id": "moong-dal-dosa",
+    "original_recipe": null,
+    "name": "Green Moong Dal Dosa (Pesarattu)",
+    "description": "Whole green gram dosa, also called pesarattu, soaked and blended with rice. Appears across multiple weeks as breakfast and as a no-oil dinner option.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast", "dinner"],
+    "prep_time": "Overnight soak + 10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "green-moong", "amount": "1 cup", "notes": "soaked overnight"},
+      {"ingredient_id": "rice", "amount": "1/4 cup", "notes": "soaked overnight with the moong"},
+      {"ingredient_id": "salt", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Soak 1 cup green gram and 1/4 cup rice together overnight (5 hours minimum).",
+      "Blend into a dosa batter the next day.",
+      "Add salt to taste.",
+      "Cook into dosas without oil, served with chutney."
+    ],
+    "nutrition": {"calories": 180, "protein_g": 9, "carbs_g": 32, "fat_g": 1, "fiber_g": 6, "estimated": true},
+    "substitutions": [],
+    "tips": ["No fermentation needed - instant dosa.", "Reference links in source: Yellow Moong Dosa, Green Gram Dosa Instagram reels."],
+    "storage": "Batter can be refrigerated up to 1 day; best cooked fresh.",
+    "tags": ["breakfast", "dinner", "no_oil_option", "high_protein"]
+  },
+  {
+    "id": "chana-dal-dosa",
+    "original_recipe": null,
+    "name": "Chana Dal Dosa",
+    "description": "Dosa made from soaked chana dal and rice, served with green chutney in Week 5.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "Overnight soak",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "chana-dal", "amount": "3/4 cup", "notes": "soaked overnight"},
+      {"ingredient_id": "rice", "amount": "2 tbsp", "notes": "soaked overnight with the dal"}
+    ],
+    "instructions": [
+      "Soak 3/4 cup chana dal with 2 tbsp rice overnight.",
+      "Blend into dosa batter the next day.",
+      "Cook into dosas on tawa.",
+      "Serve with green chutney."
+    ],
+    "nutrition": {"calories": 190, "protein_g": 9, "carbs_g": 30, "fat_g": 2, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best cooked fresh; batter keeps refrigerated up to 1 day.",
+    "tags": ["breakfast"]
+  },
+  {
+    "id": "oats-upma-green-peas",
+    "original_recipe": null,
+    "name": "Oats Upma with Green Peas",
+    "description": "Savory oats upma with green peas, used as breakfast or dinner across multiple weeks.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast", "dinner"],
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "oats", "amount": "60-80g", "notes": null},
+      {"ingredient_id": "green-peas", "amount": "1/4 cup", "notes": null},
+      {"ingredient_id": "onion", "amount": "to taste", "notes": null},
+      {"ingredient_id": "tomato", "amount": "to taste", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "1 tbsp", "notes": null},
+      {"ingredient_id": "lemon", "amount": "to taste", "notes": null},
+      {"ingredient_id": "salt", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Heat 1 tbsp oil in a pan, add chopped vegetables of choice (onion, tomato, green peas, etc.) and sauté.",
+      "Add salt and lemon to season.",
+      "Add oats with a little water and cook until water is absorbed.",
+      "Follow the same method as Semiya Upma per the BASIC_HEALTHY_DIET guide."
+    ],
+    "nutrition": {"calories": 230, "protein_g": 8, "carbs_g": 35, "fat_g": 6, "fiber_g": 6, "estimated": true},
+    "substitutions": ["Can substitute broken wheat dalia for oats using the same method"],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["breakfast", "dinner"]
+  },
+  {
+    "id": "broken-wheat-dalia-upma",
+    "original_recipe": null,
+    "name": "Broken Wheat (Dalia) Upma with Green Peas",
+    "description": "Savory broken wheat upma, a dinner option in Week 4.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "5 min",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "broken-wheat", "amount": "60-80g", "notes": null},
+      {"ingredient_id": "green-peas", "amount": "1/4 cup", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "1 tbsp", "notes": null}
+    ],
+    "instructions": [
+      "Heat oil, sauté vegetables of choice with green peas.",
+      "Add broken wheat and water, cook until water is absorbed and wheat is tender.",
+      "Follow the same general method as Semiya Upma per the BASIC_HEALTHY_DIET guide."
+    ],
+    "nutrition": {"calories": 210, "protein_g": 7, "carbs_g": 38, "fat_g": 5, "fiber_g": 7, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["dinner"]
+  },
+  {
+    "id": "ragi-malt",
+    "original_recipe": null,
+    "name": "Ragi Malt",
+    "description": "Finger millet porridge cooked with milk, topped with apple and nuts; appears in Weeks 4 and 5.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "ragi-flour", "amount": "2 tbsp", "notes": "diluted into slurry"},
+      {"ingredient_id": "milk", "amount": "1 glass (boiling)", "notes": null},
+      {"ingredient_id": "apple", "amount": "to top", "notes": null},
+      {"ingredient_id": "mixed-nuts-seeds", "amount": "to top", "notes": null},
+      {"ingredient_id": "jaggery", "amount": "to taste", "notes": "for sweetness"}
+    ],
+    "instructions": [
+      "Dilute 2 tbsp ragi flour in a little water to form a slurry.",
+      "Add the slurry to boiling milk and cook, stirring, until it thickens.",
+      "Let cool slightly, then top with chopped apple, nuts and seeds.",
+      "Sweeten with a little jaggery if desired."
+    ],
+    "nutrition": {"calories": 220, "protein_g": 7, "carbs_g": 34, "fat_g": 6, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and warm.",
+    "tags": ["breakfast"]
+  },
+  {
+    "id": "kabuli-chana-salad",
+    "original_recipe": null,
+    "name": "Kabuli Chana Salad",
+    "description": "Boiled white chickpea salad with vegetables and lemon, used as a breakfast option in Week 11.",
+    "category": "salad",
+    "cuisine": "indian",
+    "meal_types": ["breakfast", "lunch"],
+    "prep_time": "Soak overnight",
+    "cook_time": "20 min boil",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "kabuli-chana", "amount": "120g boiled", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1 cup, chopped", "notes": "cucumber, tomato, onion, capsicum, carrot etc."},
+      {"ingredient_id": "lemon", "amount": "to taste", "notes": null},
+      {"ingredient_id": "salt", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Soak and boil kabuli chana until soft (120g boiled portion).",
+      "Mix with chopped vegetables of choice.",
+      "Season with salt and lemon juice."
+    ],
+    "nutrition": {"calories": 200, "protein_g": 11, "carbs_g": 30, "fat_g": 3, "fiber_g": 8, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best eaten fresh; can store boiled chana refrigerated up to 2 days.",
+    "tags": ["breakfast", "lunch", "high_protein"]
+  },
+  {
+    "id": "poha-mix-veg",
+    "original_recipe": null,
+    "name": "Mixed Vegetable Poha",
+    "description": "Flattened rice cooked with vegetables; used as breakfast (with green peas) and lunch (with curd) across several weeks.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast", "lunch"],
+    "prep_time": "10 min soak",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "poha", "amount": "60-100g, soaked", "notes": null},
+      {"ingredient_id": "onion", "amount": "to taste", "notes": null},
+      {"ingredient_id": "tomato", "amount": "to taste", "notes": null},
+      {"ingredient_id": "capsicum", "amount": "to taste", "notes": null},
+      {"ingredient_id": "carrot", "amount": "to taste", "notes": null},
+      {"ingredient_id": "green-peas", "amount": "to taste", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "1 tbsp", "notes": null},
+      {"ingredient_id": "lemon", "amount": "to taste", "notes": null},
+      {"ingredient_id": "salt", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Heat 1 tbsp oil and sauté vegetables of choice.",
+      "Add salt and lemon.",
+      "Add soaked poha and mix well; cook briefly until combined."
+    ],
+    "nutrition": {"calories": 210, "protein_g": 5, "carbs_g": 38, "fat_g": 6, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": ["Reference link in source: Instagram reel/TV (Poha)."],
+    "storage": "Best served fresh and hot.",
+    "tags": ["breakfast", "lunch"]
+  },
+  {
+    "id": "semiya-upma-beetroot",
+    "original_recipe": null,
+    "name": "Beetroot Semiya Upma",
+    "description": "Vermicelli upma flavoured with beetroot, used as breakfast in Week 11.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "semiya", "amount": "40g", "notes": null},
+      {"ingredient_id": "beetroot", "amount": "grated, to taste", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "to taste", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "1 tbsp", "notes": null}
+    ],
+    "instructions": [
+      "Heat oil, sauté grated beetroot and vegetables of choice.",
+      "Add 1 cup water per cup semiya and bring to boil.",
+      "Add semiya and cook until water is absorbed."
+    ],
+    "nutrition": {"calories": 190, "protein_g": 5, "carbs_g": 32, "fat_g": 5, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["breakfast"]
+  },
+  {
+    "id": "bottle-gourd-oats",
+    "original_recipe": null,
+    "name": "Grated Bottle Gourd Oats",
+    "description": "Sweet or savory oats porridge with sautéed bottle gourd, milk and dates; the signature breakfast of Week 7 (Bottle Gourd Week).",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "bottle-gourd", "amount": "1 cup, grated", "notes": null},
+      {"ingredient_id": "ghee", "amount": "1/2 tbsp", "notes": null},
+      {"ingredient_id": "oats", "amount": "3 tbsp", "notes": null},
+      {"ingredient_id": "milk", "amount": "80ml", "notes": null},
+      {"ingredient_id": "dates", "amount": "1", "notes": null}
+    ],
+    "instructions": [
+      "Sauté 1 cup grated bottle gourd in 1/2 tbsp ghee until the raw smell goes.",
+      "Add 3 tbsp oats, 80ml milk, sufficient water, and 1 date.",
+      "Cook until thickened.",
+      "Top with nuts and serve hot.",
+      "Can be made sweet or savory."
+    ],
+    "nutrition": {"calories": 200, "protein_g": 6, "carbs_g": 30, "fat_g": 7, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["breakfast"]
+  },
+  {
+    "id": "beetroot-uttapam",
+    "original_recipe": null,
+    "name": "Instant Beetroot Uttapam",
+    "description": "Beetroot-flavoured uttapam made with besan and oats flour, breakfast in Week 7.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "besan-flour", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "oats-flour", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "beetroot", "amount": "grated, to taste", "notes": null}
+    ],
+    "instructions": [
+      "Mix besan and oats flour with grated beetroot and water into a batter.",
+      "Cook on tawa as uttapam (thicker pancake), about 3 pieces."
+    ],
+    "nutrition": {"calories": 215, "protein_g": 8, "carbs_g": 30, "fat_g": 5, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh.",
+    "tags": ["breakfast"]
+  },
+  {
+    "id": "idly-sambar",
+    "original_recipe": null,
+    "name": "Idly with Sambar",
+    "description": "Steamed rice cakes served with liquid sambar or vegetable accompaniment, used in Weeks 2 and 7.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "varies",
+    "cook_time": "15 min steam",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "rice", "amount": "for idly batter", "notes": "store-bought or homemade idly batter"},
+      {"ingredient_id": "dal-generic", "amount": "for sambar", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "for sambar", "notes": null}
+    ],
+    "instructions": [
+      "Steam idly batter into idlies (2 pieces).",
+      "Serve with a bowl of liquid (thin) sambar or with vegetables, as specified."
+    ],
+    "nutrition": {"calories": 180, "protein_g": 6, "carbs_g": 35, "fat_g": 1, "fiber_g": 3, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["breakfast"]
+  },
+  {
+    "id": "ragi-sooji-uttapam",
+    "original_recipe": null,
+    "name": "Ragi and Sooji Instant Uttapam",
+    "description": "Instant uttapam made with ragi flour and sooji, breakfast in Week 10 (Pumpkin Week).",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "ragi-flour", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "sooji", "amount": "1/2 cup", "notes": null}
+    ],
+    "instructions": [
+      "Mix ragi flour and sooji with water into a batter; let sooji soften briefly.",
+      "Cook on tawa as small uttapams (2 pieces).",
+      "Serve with green chutney."
+    ],
+    "nutrition": {"calories": 200, "protein_g": 6, "carbs_g": 36, "fat_g": 3, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh.",
+    "tags": ["breakfast"]
+  },
+  {
+    "id": "carrot-oats-milk",
+    "original_recipe": null,
+    "name": "Grated Carrot and Oats Cooked with Milk",
+    "description": "Sweet breakfast porridge of grated carrot and oats cooked in milk and water, topped with nuts; Week 6.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "carrot", "amount": "1, grated", "notes": null},
+      {"ingredient_id": "oats", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "milk", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "mixed-nuts-seeds", "amount": "to top", "notes": null}
+    ],
+    "instructions": [
+      "Cook grated carrot and oats together with milk and water until soft.",
+      "Top with nuts and serve hot."
+    ],
+    "nutrition": {"calories": 220, "protein_g": 7, "carbs_g": 32, "fat_g": 7, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["breakfast"]
+  },
+  {
+    "id": "carrot-idly",
+    "original_recipe": null,
+    "name": "Carrot Idly with Liquid Sambar",
+    "description": "Idly batter mixed with grated carrot, served with thin sambar; Week 8 (Carrot Week).",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "varies",
+    "cook_time": "15 min steam",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "rice", "amount": "for idly batter", "notes": null},
+      {"ingredient_id": "carrot", "amount": "grated, mixed into batter", "notes": null},
+      {"ingredient_id": "dal-generic", "amount": "for sambar", "notes": null}
+    ],
+    "instructions": [
+      "Mix grated carrot into idly batter.",
+      "Steam into idlies (2 pieces).",
+      "Serve with liquid sambar."
+    ],
+    "nutrition": {"calories": 185, "protein_g": 6, "carbs_g": 36, "fat_g": 1, "fiber_g": 3, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["breakfast"]
+  },
+  {
+    "id": "fruit-nut-salad",
+    "original_recipe": null,
+    "name": "Fruit and Nut Salad",
+    "description": "Simple breakfast bowl of mixed fruit and nuts, used in Week 6.",
+    "category": "salad",
+    "cuisine": "general",
+    "meal_types": ["breakfast"],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "apple", "amount": "to taste", "notes": null},
+      {"ingredient_id": "mixed-nuts-seeds", "amount": "small handful", "notes": null}
+    ],
+    "instructions": [
+      "Chop seasonal fruits of choice.",
+      "Mix with a small handful of nuts.",
+      "Serve as a bowl."
+    ],
+    "nutrition": {"calories": 180, "protein_g": 4, "carbs_g": 25, "fat_g": 8, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best eaten fresh.",
+    "tags": ["breakfast"]
+  },
+  {
+    "id": "boiled-rajma-salad",
+    "original_recipe": null,
+    "name": "Boiled Rajma Salad",
+    "description": "Boiled kidney bean salad, breakfast option in Week 4.",
+    "category": "salad",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "Soak overnight",
+    "cook_time": "20 min boil",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "rajma", "amount": "100g, boiled", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "to taste", "notes": null},
+      {"ingredient_id": "lemon", "amount": "to taste", "notes": null},
+      {"ingredient_id": "salt", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Soak and boil rajma until soft (100g boiled portion).",
+      "Mix with chopped vegetables, lemon, and salt to taste."
+    ],
+    "nutrition": {"calories": 210, "protein_g": 12, "carbs_g": 32, "fat_g": 2, "fiber_g": 9, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best eaten fresh; boiled rajma keeps refrigerated up to 2 days.",
+    "tags": ["breakfast", "high_protein"]
+  },
+  {
+    "id": "chia-pudding-beetroot",
+    "original_recipe": null,
+    "name": "Beetroot Chia Seeds Pudding",
+    "description": "Chia pudding soaked in coconut milk or beetroot juice, topped with fruits and nuts; breakfast in Week 3.",
+    "category": "dessert",
+    "cuisine": "general",
+    "meal_types": ["breakfast"],
+    "prep_time": "1 hr soak",
+    "cook_time": "0 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "chia-seeds", "amount": "2 tbsp", "notes": null},
+      {"ingredient_id": "coconut-milk", "amount": "as needed", "notes": "or beetroot juice/normal milk"},
+      {"ingredient_id": "beetroot", "amount": "as juice, optional", "notes": null},
+      {"ingredient_id": "mixed-nuts-seeds", "amount": "to top", "notes": null}
+    ],
+    "instructions": [
+      "Soak 2 tbsp chia seeds in coconut milk, normal milk, or beetroot juice for 1 hour.",
+      "Top with nuts and seeds.",
+      "Note: do not add fruit if using normal milk (per BASIC_HEALTHY_DIET guide on food combinations)."
+    ],
+    "nutrition": {"calories": 190, "protein_g": 6, "carbs_g": 18, "fat_g": 10, "fiber_g": 8, "estimated": true},
+    "substitutions": [],
+    "tips": ["Avoid combining fruit with milk in the same preparation, per general guideline on food combining."],
+    "storage": "Refrigerate up to 24 hours.",
+    "tags": ["breakfast"]
+  },
+  {
+    "id": "palak-paratha",
+    "original_recipe": null,
+    "name": "Palak (Spinach) Paratha / Chapathi",
+    "description": "Spinach-infused flatbread, used as breakfast (with curd) across several weeks.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast", "lunch"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "palak", "amount": "1 cup, pureed", "notes": null},
+      {"ingredient_id": "wheat-flour", "amount": "1 cup", "notes": null},
+      {"ingredient_id": "curd", "amount": "1/2-1 cup, to serve", "notes": null}
+    ],
+    "instructions": [
+      "Add spinach puree to wheat flour and knead into dough.",
+      "Roll and cook as chapathi/paratha (without oil for no-oil version).",
+      "Serve with curd."
+    ],
+    "nutrition": {"calories": 200, "protein_g": 7, "carbs_g": 33, "fat_g": 4, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and warm.",
+    "tags": ["breakfast", "lunch", "no_oil_option"]
+  },
+  {
+    "id": "methi-paratha",
+    "original_recipe": null,
+    "name": "Methi Paratha (No Oil)",
+    "description": "Fenugreek leaf flatbread served with curd, breakfast in Week 9.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "methi-leaves", "amount": "1/2 cup, chopped", "notes": null},
+      {"ingredient_id": "wheat-flour", "amount": "1 cup", "notes": null},
+      {"ingredient_id": "curd", "amount": "1 cup, to serve", "notes": null}
+    ],
+    "instructions": [
+      "Knead chopped methi leaves into wheat flour dough.",
+      "Roll and cook as paratha without oil.",
+      "Serve with curd."
+    ],
+    "nutrition": {"calories": 190, "protein_g": 7, "carbs_g": 32, "fat_g": 3, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and warm.",
+    "tags": ["breakfast", "no_oil_option"]
+  },
+  {
+    "id": "oatmeal-apple-carrot",
+    "original_recipe": null,
+    "name": "Oat Meal with Apple and Carrot",
+    "description": "Cooked oat porridge with grated apple and carrot, topped with almonds; Week 1 breakfast.",
+    "category": "main",
+    "cuisine": "general",
+    "meal_types": ["breakfast"],
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "apple", "amount": "1, grated", "notes": null},
+      {"ingredient_id": "carrot", "amount": "1, grated", "notes": null},
+      {"ingredient_id": "milk", "amount": "1:1 with water", "notes": null},
+      {"ingredient_id": "oats", "amount": "3 tbsp", "notes": null},
+      {"ingredient_id": "almonds", "amount": "5-6", "notes": "to top"}
+    ],
+    "instructions": [
+      "Grate apple and carrot, cook on low flame for 5 minutes.",
+      "Add water and milk in 1:1 ratio and bring to a rolling boil.",
+      "Add 3 tbsp oats and cook until thickened.",
+      "Top with almonds and other nuts; serve."
+    ],
+    "nutrition": {"calories": 230, "protein_g": 7, "carbs_g": 33, "fat_g": 7, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and warm.",
+    "tags": ["breakfast"]
+  },
+  {
+    "id": "boiled-black-beans-salad",
+    "original_recipe": null,
+    "name": "Boiled Black Beans Salad",
+    "description": "Simple boiled black bean salad, breakfast in Week 9.",
+    "category": "salad",
+    "cuisine": "general",
+    "meal_types": ["breakfast"],
+    "prep_time": "Soak overnight",
+    "cook_time": "20 min boil",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "black-beans", "amount": "to taste, boiled", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "to taste", "notes": null},
+      {"ingredient_id": "lemon", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Soak and boil black beans until soft.",
+      "Mix with chopped vegetables and lemon to taste."
+    ],
+    "nutrition": {"calories": 200, "protein_g": 12, "carbs_g": 30, "fat_g": 1, "fiber_g": 10, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Boiled beans keep refrigerated up to 2 days.",
+    "tags": ["breakfast", "high_protein"]
+  },
+  {
+    "id": "plain-dosa",
+    "original_recipe": null,
+    "name": "Plain Dosa (No Oil)",
+    "description": "Simple plain dosa with green chutney, breakfast in Week 7.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "Overnight soak/batter",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "rice", "amount": "for dosa batter", "notes": null}
+    ],
+    "instructions": [
+      "Cook dosa batter on tawa without oil.",
+      "Serve 2 dosas with green chutney."
+    ],
+    "nutrition": {"calories": 170, "protein_g": 4, "carbs_g": 35, "fat_g": 0.5, "fiber_g": 2, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["breakfast", "no_oil_option"]
+  },
+  {
+    "id": "yellow-moong-dal-chilla",
+    "original_recipe": null,
+    "name": "Oats and Yellow Moong Dal Chilla",
+    "description": "Savory chilla made from soaked yellow moong dal and oats, served with green chutney; Week 4 breakfast.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast", "dinner"],
+    "prep_time": "1 hr soak",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "yellow-moong-dal", "amount": "1 cup, soaked 1 hr", "notes": null},
+      {"ingredient_id": "oats", "amount": "2 tbsp", "notes": "added before grinding"}
+    ],
+    "instructions": [
+      "Soak 1 cup yellow moong dal for 1 hour.",
+      "Add 2 tbsp oats before grinding into a smooth batter.",
+      "Cook as dosa/chilla on tawa.",
+      "Serve with green chutney."
+    ],
+    "nutrition": {"calories": 200, "protein_g": 10, "carbs_g": 30, "fat_g": 2, "fiber_g": 6, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best cooked fresh; batter keeps refrigerated up to 1 day.",
+    "tags": ["breakfast", "dinner", "high_protein"]
+  },
+  {
+    "id": "paneer-bhurji-capsicum",
+    "original_recipe": "egg-omelette-capsicum",
+    "name": "Paneer Bhurji with Capsicum (Vegetarian)",
+    "description": "Vegetarian substitute for the egg omelette breakfast (1 full egg + 2 egg whites with capsicum) used in Week 1, Days 2 & 6. Crumbled paneer scrambled with plenty of capsicum to preserve the original's high-protein, savory breakfast profile.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "5 min",
+    "cook_time": "8 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "paneer", "amount": "60-80g, crumbled", "notes": "scaled to approximate the protein of 1 egg + 2 egg whites"},
+      {"ingredient_id": "capsicum", "amount": "1 cup, chopped", "notes": "lots of capsicum, per original recipe"},
+      {"ingredient_id": "cooking-oil", "amount": "1 tsp", "notes": null},
+      {"ingredient_id": "salt", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Heat a small amount of oil in a pan.",
+      "Sauté plenty of chopped capsicum until softened.",
+      "Add crumbled paneer and cook briefly, stirring like a bhurji (scramble).",
+      "Season with salt and any spices of choice; serve hot."
+    ],
+    "nutrition": {"calories": 210, "protein_g": 14, "carbs_g": 6, "fat_g": 14, "fiber_g": 2, "estimated": true},
+    "substitutions": ["Tofu scramble with capsicum (priority 2)", "Roasted soya chunks with capsicum (priority 3)"],
+    "tips": ["Substituted from the original egg-based recipe per lacto-vegetarian conversion; paneer was chosen as the top-priority substitute and quantity adjusted to approximate the protein content of the original egg dish."],
+    "storage": "Best served fresh and hot.",
+    "tags": ["breakfast", "vegetarian_substitution", "high_protein"]
+  },
+  {
+    "id": "paneer-bhurji-carrot",
+    "original_recipe": "egg-omelette-carrot",
+    "name": "Paneer Bhurji with Carrot (Vegetarian)",
+    "description": "Vegetarian substitute for the Week 2 Day 2 egg omelette breakfast (1 full egg + 2 egg whites with lots of carrot).",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["breakfast"],
+    "prep_time": "5 min",
+    "cook_time": "8 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "paneer", "amount": "60-80g, crumbled", "notes": null},
+      {"ingredient_id": "carrot", "amount": "1 cup, grated or chopped", "notes": "lots of carrot, per original recipe"},
+      {"ingredient_id": "cooking-oil", "amount": "1 tsp", "notes": null},
+      {"ingredient_id": "salt", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Heat a small amount of oil in a pan.",
+      "Sauté grated/chopped carrot until just tender.",
+      "Add crumbled paneer and scramble together briefly.",
+      "Season with salt and spices; serve hot."
+    ],
+    "nutrition": {"calories": 215, "protein_g": 14, "carbs_g": 9, "fat_g": 14, "fiber_g": 2, "estimated": true},
+    "substitutions": ["Tofu scramble with carrot (priority 2)", "Roasted soya chunks with carrot (priority 3)"],
+    "tips": ["Substituted from the original egg-based recipe per lacto-vegetarian conversion."],
+    "storage": "Best served fresh and hot.",
+    "tags": ["breakfast", "vegetarian_substitution", "high_protein"]
+  },
+  {
+    "id": "bottle-gourd-chapathi",
+    "original_recipe": null,
+    "name": "Bottle Gourd Chapathi",
+    "description": "Flatbread made with grated bottle gourd kneaded into the dough; used at lunch across several weeks, often paired with paneer bhurji or curry.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "bottle-gourd", "amount": "1 cup, grated", "notes": null},
+      {"ingredient_id": "wheat-flour", "amount": "1 cup", "notes": "or wheat+besan combination"},
+      {"ingredient_id": "ragi-flour", "amount": "optional half portion", "notes": "for half-ragi half-wheat variant"}
+    ],
+    "instructions": [
+      "Grate bottle gourd, add spices of choice.",
+      "Add flour (wheat, or half ragi + half wheat, or wheat + besan) and knead into a soft dough.",
+      "Roll thin (CD-sized) and cook chapathi on tawa."
+    ],
+    "nutrition": {"calories": 150, "protein_g": 5, "carbs_g": 28, "fat_g": 2, "fiber_g": 4, "estimated": true},
+    "substitutions": ["Flour combination always used 1:1 per measurement guide"],
+    "tips": ["Roti should always be thin, about the size of a CD, made with ~30g raw flour or palm-size."],
+    "storage": "Best served fresh and warm.",
+    "tags": ["lunch"]
+  },
+  {
+    "id": "methi-ragi-jowar-roti",
+    "original_recipe": null,
+    "name": "Methi (Ragi + Jowar) Roti - Patting Method",
+    "description": "Flatbread made by the patting method with ragi and jowar flour; used at lunch in Weeks 3 and 6.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "ragi-flour", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "jowar-flour", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "grated, to taste", "notes": null}
+    ],
+    "instructions": [
+      "Grate vegetables of choice and add spices and flour; mix well.",
+      "Pat the roti by hand on a cloth or butter paper (patting method, used for ragi/jowar since they don't roll easily).",
+      "Roast on tawa."
+    ],
+    "nutrition": {"calories": 160, "protein_g": 5, "carbs_g": 30, "fat_g": 2, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": ["Use patting method for jowar and ragi flours specifically, per BASIC_HEALTHY_DIET guide."],
+    "storage": "Best served fresh and warm.",
+    "tags": ["lunch"]
+  },
+  {
+    "id": "carrot-jowar-roti",
+    "original_recipe": null,
+    "name": "Carrot Jowar Roti (Patting Method)",
+    "description": "Jowar flour roti with grated carrot, made using the patting method; Week 11 lunch.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "jowar-flour", "amount": "1 cup", "notes": null},
+      {"ingredient_id": "carrot", "amount": "grated, to taste", "notes": null}
+    ],
+    "instructions": [
+      "Mix grated carrot with jowar flour and spices.",
+      "Pat into roti shape by hand (patting method).",
+      "Roast on tawa."
+    ],
+    "nutrition": {"calories": 150, "protein_g": 4, "carbs_g": 28, "fat_g": 2, "fiber_g": 4, "estimated": true},
+    "substitutions": ["Carrot chapathi as alternative form"],
+    "tips": [],
+    "storage": "Best served fresh and warm.",
+    "tags": ["lunch"]
+  },
+  {
+    "id": "carrot-roti",
+    "original_recipe": null,
+    "name": "Grated Carrot Roti (Wheat + Besan)",
+    "description": "Roti made with grated carrot mixed into wheat and besan flour dough; the signature lunch/dinner roti of Week 8 (Carrot Week).",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch", "dinner"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "wheat-flour", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "besan-flour", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "carrot", "amount": "grated, generous amount", "notes": null}
+    ],
+    "instructions": [
+      "Mix wheat flour and besan with grated carrot.",
+      "Knead into dough and roll into roti.",
+      "Cook on tawa."
+    ],
+    "nutrition": {"calories": 165, "protein_g": 6, "carbs_g": 29, "fat_g": 2, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and warm.",
+    "tags": ["lunch", "dinner"]
+  },
+  {
+    "id": "ragi-wheat-chapathi",
+    "original_recipe": null,
+    "name": "Ragi and Wheat Flour Chapathi (1:1)",
+    "description": "Simple ragi-wheat flour combination chapathi used at lunch in Week 11.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "ragi-flour", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "wheat-flour", "amount": "1/2 cup", "notes": null}
+    ],
+    "instructions": [
+      "Mix ragi and wheat flour in equal (1:1) proportion.",
+      "Knead into dough and roll into 2 small chapathis.",
+      "Cook on tawa."
+    ],
+    "nutrition": {"calories": 155, "protein_g": 5, "carbs_g": 30, "fat_g": 1.5, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": ["Flour combinations should always be mixed 1:1."],
+    "storage": "Best served fresh and warm.",
+    "tags": ["lunch"]
+  },
+  {
+    "id": "palak-roti",
+    "original_recipe": null,
+    "name": "Palak (Spinach) Roti",
+    "description": "Spinach puree kneaded into chapathi dough, used at lunch for stuffed paneer rolls (franky-style).",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch", "dinner"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "palak", "amount": "1 cup, pureed", "notes": null},
+      {"ingredient_id": "wheat-flour", "amount": "1 cup", "notes": null}
+    ],
+    "instructions": [
+      "Add spinach paste to the flour and knead into dough.",
+      "Make chapathi as usual."
+    ],
+    "nutrition": {"calories": 150, "protein_g": 5, "carbs_g": 28, "fat_g": 1, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and warm.",
+    "tags": ["lunch", "dinner"]
+  },
+  {
+    "id": "missi-roti",
+    "original_recipe": null,
+    "name": "Missi Roti (Wheat + Besan + Sattu + Kasuri Methi)",
+    "description": "Multi-flour roti with sattu powder and dried fenugreek leaves, used at lunch in Weeks 3 and 9.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "wheat-flour", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "besan-flour", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "sattu-powder", "amount": "1 tbsp", "notes": null},
+      {"ingredient_id": "kasuri-methi", "amount": "1 tbsp", "notes": null}
+    ],
+    "instructions": [
+      "Mix wheat flour, besan, sattu powder, and kasuri methi.",
+      "Knead into dough and roll into 2 rotis.",
+      "Cook on tawa."
+    ],
+    "nutrition": {"calories": 170, "protein_g": 7, "carbs_g": 28, "fat_g": 3, "fiber_g": 5, "estimated": true},
+    "substitutions": ["Bran roti can be used instead per Week 9 instructions"],
+    "tips": [],
+    "storage": "Best served fresh and warm.",
+    "tags": ["lunch"]
+  },
+  {
+    "id": "rajma-paratha",
+    "original_recipe": null,
+    "name": "Rajma Paratha",
+    "description": "Stuffed paratha with mashed boiled rajma filling, like aloo paratha; lunch in Week 11.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "rajma", "amount": "1/2 cup, boiled and mashed", "notes": null},
+      {"ingredient_id": "wheat-flour", "amount": "1 cup", "notes": "for the roti dough"}
+    ],
+    "instructions": [
+      "Boil rajma until soft and mash it.",
+      "Stuff the mashed rajma into roti dough, similar to aloo paratha.",
+      "Roll out and cook on tawa as paratha."
+    ],
+    "nutrition": {"calories": 220, "protein_g": 9, "carbs_g": 35, "fat_g": 4, "fiber_g": 7, "estimated": true},
+    "substitutions": ["Kabuli chana can be used the same way (per BASIC_HEALTHY_DIET guide: Rajma/Kabuli chana Paratha)"],
+    "tips": [],
+    "storage": "Best served fresh and warm.",
+    "tags": ["lunch", "high_protein"]
+  },
+  {
+    "id": "soya-chunks-curry",
+    "original_recipe": null,
+    "name": "Soya Chunks Curry",
+    "description": "Home-style curry made with rehydrated soya chunks, used at lunch in Weeks 5 and 11.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min soak",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "soya-chunks", "amount": "1/2-1 cup, rehydrated", "notes": null},
+      {"ingredient_id": "onion", "amount": "to taste", "notes": null},
+      {"ingredient_id": "tomato", "amount": "to taste", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "as needed, within daily limit", "notes": null}
+    ],
+    "instructions": [
+      "Soak soya chunks in warm water until soft, then squeeze out excess water.",
+      "Make curry as you would at home, using minimal oil.",
+      "Avoid using any powders like peanut podi or dry coconut podi, per BASIC_HEALTHY_DIET guide."
+    ],
+    "nutrition": {"calories": 200, "protein_g": 18, "carbs_g": 15, "fat_g": 6, "fiber_g": 6, "estimated": true},
+    "substitutions": [],
+    "tips": ["No premade spice podis/powders should be used in curries."],
+    "storage": "Refrigerate leftovers up to 2 days.",
+    "tags": ["lunch", "high_protein"]
+  },
+  {
+    "id": "veg-curry-generic",
+    "original_recipe": null,
+    "name": "Mixed Vegetable Curry (Home-Style)",
+    "description": "General home-style vegetable curry, repeated across nearly every week's lunch and dinner with whichever vegetables are available.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch", "dinner"],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1-1.5 cups", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "minimal, within daily limit", "notes": null},
+      {"ingredient_id": "onion", "amount": "to taste", "notes": null},
+      {"ingredient_id": "tomato", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Make any curry as you would at home using available vegetables.",
+      "Use minimal oil.",
+      "Do not use any spice podis/powders such as peanut podi or dry coconut podi."
+    ],
+    "nutrition": {"calories": 150, "protein_g": 4, "carbs_g": 18, "fat_g": 6, "fiber_g": 5, "estimated": true},
+    "substitutions": ["Can substitute any vegetable for dal or leafy vegetables, per instructions in Weeks 5 and 9"],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 2 days.",
+    "tags": ["lunch", "dinner"]
+  },
+  {
+    "id": "rajma-curry",
+    "original_recipe": null,
+    "name": "Rajma Curry",
+    "description": "Home-style kidney bean curry, used at lunch in Weeks 2 and 7.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "Soak overnight",
+    "cook_time": "25 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "rajma", "amount": "1/2-1 cup, boiled", "notes": null},
+      {"ingredient_id": "onion", "amount": "to taste", "notes": null},
+      {"ingredient_id": "tomato", "amount": "to taste", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "minimal", "notes": null}
+    ],
+    "instructions": [
+      "Soak and boil rajma until soft.",
+      "Make into a curry as you would at home, with minimal oil and no premade spice podis."
+    ],
+    "nutrition": {"calories": 210, "protein_g": 12, "carbs_g": 28, "fat_g": 4, "fiber_g": 9, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 2 days.",
+    "tags": ["lunch", "high_protein"]
+  },
+  {
+    "id": "kabuli-chana-curry",
+    "original_recipe": null,
+    "name": "Kabuli Chana Curry",
+    "description": "Home-style white chickpea curry served with brown rice and curd across multiple weeks.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "Soak overnight",
+    "cook_time": "25 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "kabuli-chana", "amount": "1/2 cup, boiled", "notes": null},
+      {"ingredient_id": "onion", "amount": "to taste", "notes": null},
+      {"ingredient_id": "tomato", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Soak and boil kabuli chana.",
+      "Make into curry as you would at home, with minimal oil."
+    ],
+    "nutrition": {"calories": 200, "protein_g": 11, "carbs_g": 30, "fat_g": 3, "fiber_g": 8, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 2 days.",
+    "tags": ["lunch", "high_protein"]
+  },
+  {
+    "id": "black-chana-salad",
+    "original_recipe": null,
+    "name": "Black Chana Salad (with Paneer)",
+    "description": "Boiled black chickpea salad, sometimes mixed with a little paneer and vegetables; used at lunch in Week 6 and as a dinner-style chaat in Week 5.",
+    "category": "salad",
+    "cuisine": "indian",
+    "meal_types": ["lunch", "dinner"],
+    "prep_time": "Soak 6-7 hrs",
+    "cook_time": "2 whistles pressure cook",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "black-chana", "amount": "100g, boiled (or 30g raw for chaat version)", "notes": null},
+      {"ingredient_id": "paneer", "amount": "20g, optional", "notes": null},
+      {"ingredient_id": "onion", "amount": "to taste", "notes": null},
+      {"ingredient_id": "tomato", "amount": "to taste", "notes": null},
+      {"ingredient_id": "green-chillies", "amount": "to taste", "notes": null},
+      {"ingredient_id": "chaat-masala", "amount": "to taste", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "1 tbsp, for tadka (chaat version)", "notes": null}
+    ],
+    "instructions": [
+      "Soak black chana for 6-7 hours, then pressure cook for 2 whistles until soft.",
+      "For salad: mix boiled chana with chopped vegetables and a little paneer.",
+      "For chaat version: temper 1 tbsp oil with onion, tomato, green chillies, add spices (salt, chilli powder, chaat masala), then add boiled chana and cook a couple of minutes."
+    ],
+    "nutrition": {"calories": 195, "protein_g": 11, "carbs_g": 28, "fat_g": 4, "fiber_g": 8, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Boiled chana keeps refrigerated up to 2 days.",
+    "tags": ["lunch", "dinner", "high_protein"]
+  },
+  {
+    "id": "chickpea-salad",
+    "original_recipe": null,
+    "name": "Chickpea Salad with Vegetables",
+    "description": "Boiled chickpea salad with extra vegetables, lunch option in Weeks 4 and 8.",
+    "category": "salad",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "Soak overnight",
+    "cook_time": "20 min boil",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "kabuli-chana", "amount": "100-120g, boiled", "notes": "referred to generically as 'chickpea'"},
+      {"ingredient_id": "carrot", "amount": "extra, grated", "notes": "more grated carrot in carrot-week variant"},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Boil chickpeas until soft.",
+      "Mix with chopped vegetables (extra grated carrot in carrot-week variant)."
+    ],
+    "nutrition": {"calories": 200, "protein_g": 11, "carbs_g": 30, "fat_g": 3, "fiber_g": 8, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Boiled chickpeas keep refrigerated up to 2 days.",
+    "tags": ["lunch", "high_protein"]
+  },
+  {
+    "id": "brown-rice-veg-curry",
+    "original_recipe": null,
+    "name": "Brown Rice with Vegetable Curry",
+    "description": "Brown rice paired with vegetable curry and curd/salad; one of the most frequently repeated lunch combinations across the program.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch", "dinner"],
+    "prep_time": "5 min",
+    "cook_time": "25 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "brown-rice", "amount": "100-120g cooked (or 1 cup)", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1 bowl, for curry", "notes": null},
+      {"ingredient_id": "curd", "amount": "to serve, optional", "notes": null}
+    ],
+    "instructions": [
+      "Cook brown rice.",
+      "Serve with a bowl of mixed vegetable curry and curd/salad on the side."
+    ],
+    "nutrition": {"calories": 260, "protein_g": 7, "carbs_g": 48, "fat_g": 4, "fiber_g": 5, "estimated": true},
+    "substitutions": ["Rice can be replaced with equal quantity of millets, quinoa, or couscous per measurement guide"],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 1 day.",
+    "tags": ["lunch", "dinner"]
+  },
+  {
+    "id": "bottle-gourd-tomato-rice",
+    "original_recipe": null,
+    "name": "Bottle Gourd Tomato Brown Rice (Pulav-Style)",
+    "description": "Brown rice cooked pulav-style with bottle gourd and tomato, served with curd; Week 10 lunch.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min",
+    "cook_time": "25 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "brown-rice", "amount": "1 bowl", "notes": null},
+      {"ingredient_id": "bottle-gourd", "amount": "1/2 cup, chopped", "notes": null},
+      {"ingredient_id": "tomato", "amount": "to taste", "notes": null},
+      {"ingredient_id": "curd", "amount": "to serve", "notes": null}
+    ],
+    "instructions": [
+      "Cook brown rice pulav-style with bottle gourd and tomato.",
+      "Serve with curd."
+    ],
+    "nutrition": {"calories": 250, "protein_g": 6, "carbs_g": 46, "fat_g": 4, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 1 day.",
+    "tags": ["lunch"]
+  },
+  {
+    "id": "beetroot-paneer-rice",
+    "original_recipe": null,
+    "name": "Beetroot Paneer Rice",
+    "description": "Rice mixed with beetroot paneer bhurji, made tasty with spices; Week 9 lunch.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "rice", "amount": "1 bowl, cooked", "notes": null},
+      {"ingredient_id": "beetroot", "amount": "1, grated", "notes": null},
+      {"ingredient_id": "paneer", "amount": "50g, crumbled", "notes": null}
+    ],
+    "instructions": [
+      "Make a beetroot paneer bhurji (sauté grated beetroot with crumbled paneer and spices).",
+      "Mix into cooked rice.",
+      "Adjust spices to taste."
+    ],
+    "nutrition": {"calories": 270, "protein_g": 10, "carbs_g": 40, "fat_g": 7, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 1 day.",
+    "tags": ["lunch", "high_protein"]
+  },
+  {
+    "id": "veg-biryani-paneer",
+    "original_recipe": null,
+    "name": "Vegetable Biryani with Paneer (More Paneer, Less Rice)",
+    "description": "Vegetable biryani with extra paneer and reduced rice quantity, served with curd; Week 4 lunch.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "rice", "amount": "reduced quantity, ~60-80g cooked", "notes": "more paneer, less rice"},
+      {"ingredient_id": "paneer", "amount": "80-100g", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1 cup", "notes": null},
+      {"ingredient_id": "curd", "amount": "to serve", "notes": null}
+    ],
+    "instructions": [
+      "Prepare vegetable biryani with extra paneer and reduced rice quantity.",
+      "Serve with curd."
+    ],
+    "nutrition": {"calories": 320, "protein_g": 16, "carbs_g": 32, "fat_g": 12, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 1 day.",
+    "tags": ["lunch", "high_protein"]
+  },
+  {
+    "id": "carrot-moong-pongal",
+    "original_recipe": null,
+    "name": "Carrot Moong Dal Masala Oats (Pongal-Style)",
+    "description": "Savory pongal-style oats dish cooked with moong dal and carrot; Week 3 dinner.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "5 min",
+    "cook_time": "20 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "oats", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "moong-dal", "amount": "1/4 cup", "notes": null},
+      {"ingredient_id": "carrot", "amount": "1, chopped", "notes": null}
+    ],
+    "instructions": [
+      "Cook oats and moong dal together with carrot, following a regular pongal-style method (tempered with spices)."
+    ],
+    "nutrition": {"calories": 210, "protein_g": 9, "carbs_g": 32, "fat_g": 4, "fiber_g": 6, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["dinner"]
+  },
+  {
+    "id": "green-moong-oats-kitchidi",
+    "original_recipe": null,
+    "name": "Green Moong Dal Oats Kitchidi",
+    "description": "Oats kitchidi made like a regular rice kitchidi but with green moong dal; Week 7 lunch.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min",
+    "cook_time": "20 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "oats", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "green-moong", "amount": "1/4 cup", "notes": null}
+    ],
+    "instructions": [
+      "Cook oats and green moong dal together like a regular kitchidi, with tempering and spices."
+    ],
+    "nutrition": {"calories": 210, "protein_g": 10, "carbs_g": 30, "fat_g": 4, "fiber_g": 7, "estimated": true},
+    "substitutions": [],
+    "tips": ["Reference link in source: Instagram (Dalia Kitchidi/Pongal)."],
+    "storage": "Best served fresh and hot.",
+    "tags": ["lunch"]
+  },
+  {
+    "id": "broken-wheat-kitchidi-chana-dal",
+    "original_recipe": null,
+    "name": "Broken Wheat Dalia Kitchidi with Chana Dal",
+    "description": "Kitchidi made with broken wheat and chana dal; Week 7 dinner.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "10 min",
+    "cook_time": "20 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "broken-wheat", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "chana-dal", "amount": "1/4 cup", "notes": null}
+    ],
+    "instructions": [
+      "Cook broken wheat and chana dal together like a kitchidi, with tempering and spices."
+    ],
+    "nutrition": {"calories": 215, "protein_g": 9, "carbs_g": 34, "fat_g": 4, "fiber_g": 7, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["dinner"]
+  },
+  {
+    "id": "palak-paneer-soup",
+    "original_recipe": null,
+    "name": "Palak Paneer Soup",
+    "description": "Spinach and paneer soup, lunch option in Week 9.",
+    "category": "soup",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "palak", "amount": "1 cup", "notes": null},
+      {"ingredient_id": "paneer", "amount": "30-40g, cubed", "notes": null}
+    ],
+    "instructions": [
+      "Cook spinach into a smooth soup base.",
+      "Add paneer cubes and simmer briefly.",
+      "Serve hot."
+    ],
+    "nutrition": {"calories": 140, "protein_g": 9, "carbs_g": 6, "fat_g": 9, "fiber_g": 3, "estimated": true},
+    "substitutions": ["Paneer Paratha with salad as an alternative lunch option per source"],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 1 day.",
+    "tags": ["lunch", "high_protein"]
+  },
+  {
+    "id": "paneer-paratha",
+    "original_recipe": null,
+    "name": "Paneer Stuffed Paratha",
+    "description": "Wheat paratha stuffed with paneer filling, served with salad and beetroot raita; appears in Week 2 lunch and as an alternative in Week 9.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "paneer", "amount": "60-80g, crumbled", "notes": null},
+      {"ingredient_id": "wheat-flour", "amount": "1 cup", "notes": null},
+      {"ingredient_id": "curd", "amount": "to serve, as raita", "notes": null},
+      {"ingredient_id": "beetroot", "amount": "for raita, optional", "notes": null}
+    ],
+    "instructions": [
+      "Mix crumbled paneer with spices for the filling.",
+      "Stuff into roti dough and roll out as a paratha.",
+      "Cook on tawa.",
+      "Serve with salad and beetroot raita."
+    ],
+    "nutrition": {"calories": 260, "protein_g": 12, "carbs_g": 34, "fat_g": 9, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and warm.",
+    "tags": ["lunch", "high_protein"]
+  },
+  {
+    "id": "capsicum-sabji",
+    "original_recipe": null,
+    "name": "Capsicum Sabji",
+    "description": "Simple capsicum-based vegetable side dish, served with roti at lunch in Weeks 5 and 9.",
+    "category": "side",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "capsicum", "amount": "1 cup, chopped", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "minimal", "notes": null}
+    ],
+    "instructions": [
+      "Sauté chopped capsicum with minimal oil and spices until tender."
+    ],
+    "nutrition": {"calories": 80, "protein_g": 1.5, "carbs_g": 8, "fat_g": 4, "fiber_g": 3, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 1 day.",
+    "tags": ["lunch"]
+  },
+  {
+    "id": "leafy-vegetable-curry",
+    "original_recipe": null,
+    "name": "Leafy Vegetable Curry (Any)",
+    "description": "Home-style curry made from any leafy green vegetable, frequently paired with roti at lunch.",
+    "category": "side",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "leafy-vegetables-generic", "amount": "1-2 cups", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "minimal", "notes": null}
+    ],
+    "instructions": [
+      "Cook any leafy vegetable into a simple curry with minimal oil and spices."
+    ],
+    "nutrition": {"calories": 90, "protein_g": 3, "carbs_g": 8, "fat_g": 4, "fiber_g": 4, "estimated": true},
+    "substitutions": ["Any sabzi/veggie can substitute for leafy vegetables and vice versa per Weeks 5/9 instructions"],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 1 day.",
+    "tags": ["lunch"]
+  },
+  {
+    "id": "dal-generic-recipe",
+    "original_recipe": null,
+    "name": "Dal (Lentil Curry, Generic)",
+    "description": "Generic dal preparation referenced repeatedly across plans, e.g. moong dal soup style.",
+    "category": "side",
+    "cuisine": "indian",
+    "meal_types": ["lunch", "dinner"],
+    "prep_time": "5 min",
+    "cook_time": "20 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "moong-dal", "amount": "1 cup", "notes": "or dal of choice"},
+      {"ingredient_id": "cooking-oil", "amount": "1 tbsp", "notes": null},
+      {"ingredient_id": "lemon", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Pressure cook 1 cup dal (e.g. moong dal) for 1 whistle.",
+      "In a bowl, add 1 tbsp oil, vegetables of choice, the cooked dal, spices, salt and lemon.",
+      "Serve hot."
+    ],
+    "nutrition": {"calories": 160, "protein_g": 9, "carbs_g": 22, "fat_g": 4, "fiber_g": 6, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 2 days.",
+    "tags": ["lunch", "dinner", "high_protein"]
+  },
+  {
+    "id": "cluster-beans-salad",
+    "original_recipe": null,
+    "name": "Cluster Beans Salad",
+    "description": "Salad made with cluster beans, lunch option in Week 9 (referenced in source as 'cluster alad').",
+    "category": "salad",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "cluster-beans", "amount": "1 cup, chopped", "notes": null},
+      {"ingredient_id": "lemon", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Lightly cook or steam cluster beans.",
+      "Toss with salt and lemon to make a salad."
+    ],
+    "nutrition": {"calories": 90, "protein_g": 3, "carbs_g": 14, "fat_g": 1, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": ["Source text reads 'cluster alad' - interpreted as cluster beans salad; flagged as an assumption."],
+    "storage": "Best eaten fresh.",
+    "tags": ["lunch"]
+  },
+  {
+    "id": "semi-brown-rice-bowl",
+    "original_recipe": null,
+    "name": "Semi-Brown Rice Bowl",
+    "description": "Semi-brown rice served with chana curry or cluster beans salad; Weeks 5, 9.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "5 min",
+    "cook_time": "20 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "semi-brown-rice", "amount": "1 bowl, cooked", "notes": null},
+      {"ingredient_id": "kabuli-chana", "amount": "1/2 bowl curry, optional", "notes": null}
+    ],
+    "instructions": [
+      "Cook semi-brown rice.",
+      "Serve with kabuli chana curry or cluster beans salad, and a side salad."
+    ],
+    "nutrition": {"calories": 230, "protein_g": 6, "carbs_g": 44, "fat_g": 3, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 1 day.",
+    "tags": ["lunch"]
+  },
+  {
+    "id": "bhindi-curry",
+    "original_recipe": null,
+    "name": "Bhindi (Okra) Curry",
+    "description": "Home-style okra curry, used at lunch in Week 9 with palak-ragi roti.",
+    "category": "side",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "bhindi", "amount": "1 cup, chopped", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "minimal", "notes": null}
+    ],
+    "instructions": [
+      "Sauté chopped bhindi with minimal oil and spices until cooked through."
+    ],
+    "nutrition": {"calories": 100, "protein_g": 2, "carbs_g": 10, "fat_g": 5, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 1 day.",
+    "tags": ["lunch"]
+  },
+  {
+    "id": "paneer-fried-rice",
+    "original_recipe": "egg-fried-rice",
+    "name": "Paneer Fried Rice (Vegetarian)",
+    "description": "Vegetarian substitute for egg fried rice dishes appearing in Week 1 (lunch, 'egg white fried rice') and Week 2 (lunch, 'vegetable flavoured rice/egg fried rice', where the source itself already lists a vegetable option). Uses crumbled or cubed paneer in place of egg.",
+    "category": "main",
+    "cuisine": "indo_chinese",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "rice", "amount": "1 bowl, cooked and cooled", "notes": "brown rice preferred"},
+      {"ingredient_id": "paneer", "amount": "50-70g, cubed or crumbled", "notes": "scaled to replace egg's protein contribution"},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1 cup", "notes": "lots of vegetables, per original recipe"},
+      {"ingredient_id": "cooking-oil", "amount": "1 tbsp", "notes": null}
+    ],
+    "instructions": [
+      "Heat oil in a pan, sauté lots of chopped vegetables of choice.",
+      "Add paneer and stir-fry briefly.",
+      "Add cooked rice and toss together with salt and spices.",
+      "Serve with salad and beetroot raita."
+    ],
+    "nutrition": {"calories": 290, "protein_g": 12, "carbs_g": 42, "fat_g": 9, "fiber_g": 4, "estimated": true},
+    "substitutions": ["Tofu fried rice (priority 2)"],
+    "tips": ["Substituted from the original egg fried rice recipe per lacto-vegetarian conversion."],
+    "storage": "Refrigerate leftovers up to 1 day.",
+    "tags": ["lunch", "vegetarian_substitution"]
+  },
+  {
+    "id": "paneer-saute-mixed-veg",
+    "original_recipe": "boiled-egg-white-paneer-saute",
+    "name": "Paneer Sauté with Mixed Vegetables (Vegetarian)",
+    "description": "Vegetarian-only version of the Week 2 lunch option '3 boiled egg whites OR 4-5 pieces paneer sauté with mixed vegetables' (Days 6 & 7). The source document already offered paneer as an alternative; this entry standardizes on the all-vegetarian version.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "paneer", "amount": "4-5 pieces (~60-80g)", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1 cup", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "minimal", "notes": null}
+    ],
+    "instructions": [
+      "Sauté mixed vegetables of choice with minimal oil and spices.",
+      "Add paneer pieces and toss together briefly.",
+      "Serve hot."
+    ],
+    "nutrition": {"calories": 200, "protein_g": 13, "carbs_g": 10, "fat_g": 12, "fiber_g": 3, "estimated": true},
+    "substitutions": ["Roasted tofu sauté (priority 2)"],
+    "tips": ["Original document already listed paneer as an alternative to the egg-white option; this entry simply standardizes to the vegetarian path."],
+    "storage": "Best served fresh and hot.",
+    "tags": ["lunch", "vegetarian_substitution", "high_protein"]
+  },
+  {
+    "id": "paneer-tikka",
+    "original_recipe": null,
+    "name": "Paneer Tikka",
+    "description": "Spiced and grilled paneer cubes with onion and capsicum; one of the most frequently repeated dinner dishes across the program.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "15 min marinate",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "besan-flour", "amount": "2 tbsp", "notes": "for the marinade coating"},
+      {"ingredient_id": "onion", "amount": "1/2, cut into petals", "notes": null},
+      {"ingredient_id": "capsicum", "amount": "1/2 cup, cubed (red & green)", "notes": null},
+      {"ingredient_id": "paneer", "amount": "5 cubes (~50-80g)", "notes": null},
+      {"ingredient_id": "salt", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Mix 2 tbsp besan flour with all spices and salt, combine with a little water to form a marinade.",
+      "Add onion petals, capsicum cubes, and paneer cubes; mix gently until well coated.",
+      "Roast on a hot tawa, or grill in an oven or tandoor."
+    ],
+    "nutrition": {"calories": 220, "protein_g": 14, "carbs_g": 12, "fat_g": 13, "fiber_g": 3, "estimated": true},
+    "substitutions": [],
+    "tips": ["Same recipe method can be used for chicken tikka, per BASIC_HEALTHY_DIET guide (non-applicable here as this dataset is fully vegetarian)."],
+    "storage": "Best served fresh and hot.",
+    "tags": ["dinner", "high_protein"]
+  },
+  {
+    "id": "sauted-veggies-paneer",
+    "original_recipe": null,
+    "name": "Sautéed Vegetables with Paneer",
+    "description": "Simple sautéed seasonal vegetables with a portion of paneer, repeated as a dinner option across multiple weeks.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1-1.5 cups, chopped", "notes": "excludes potato and raw banana"},
+      {"ingredient_id": "paneer", "amount": "50g", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "1 tbsp", "notes": null},
+      {"ingredient_id": "salt", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Heat 1 tbsp oil in a kadai, add chopped vegetables (any except potato and raw banana).",
+      "Sauté for a few minutes.",
+      "Sprinkle salt and spices.",
+      "Add paneer pieces and toss together briefly."
+    ],
+    "nutrition": {"calories": 190, "protein_g": 11, "carbs_g": 12, "fat_g": 11, "fiber_g": 4, "estimated": true},
+    "substitutions": ["Tofu or soya chunks can replace paneer", "Original BASIC_HEALTHY_DIET guide also lists chicken fry as an option (non-applicable here as this dataset is fully vegetarian)"],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["dinner", "high_protein"]
+  },
+  {
+    "id": "mix-veg-soup",
+    "original_recipe": null,
+    "name": "Mixed Vegetable Soup",
+    "description": "Blended vegetable soup tempered with garlic and chillies, used at dinner across nearly every week, often paired with a protein side.",
+    "category": "soup",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "10 min",
+    "cook_time": "20 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1-1.5 cups", "notes": null},
+      {"ingredient_id": "garlic", "amount": "2-3 cloves", "notes": null},
+      {"ingredient_id": "green-chillies", "amount": "to taste", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "1 tbsp", "notes": null},
+      {"ingredient_id": "salt", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Add 500ml water to a pot and bring to a boil; add vegetables of choice and cook until soft.",
+      "Let cool, then blend into a smooth puree.",
+      "In the same pot, add 1 tbsp oil, garlic, and green chillies; add the blended soup mixture back in.",
+      "Add salt and bring to a boil. Serve hot."
+    ],
+    "nutrition": {"calories": 120, "protein_g": 3, "carbs_g": 14, "fat_g": 6, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": ["Reference link in source: Instagram (Mix Veg Soup)."],
+    "storage": "Refrigerate leftovers up to 2 days.",
+    "tags": ["dinner"]
+  },
+  {
+    "id": "tomato-soup",
+    "original_recipe": null,
+    "name": "Tomato Soup",
+    "description": "Simple tomato soup, used at dinner in Week 11.",
+    "category": "soup",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "tomato", "amount": "3-4, chopped", "notes": null},
+      {"ingredient_id": "garlic", "amount": "1-2 cloves", "notes": null}
+    ],
+    "instructions": [
+      "Boil tomatoes until soft, then blend into a puree.",
+      "Simmer with garlic, salt and spices; serve hot."
+    ],
+    "nutrition": {"calories": 70, "protein_g": 2, "carbs_g": 10, "fat_g": 2, "fiber_g": 2, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 2 days.",
+    "tags": ["dinner"]
+  },
+  {
+    "id": "pumpkin-soup",
+    "original_recipe": null,
+    "name": "Pumpkin Soup",
+    "description": "Pumpkin soup paired with roasted paneer, dinner in Week 10.",
+    "category": "soup",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "10 min",
+    "cook_time": "20 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "pumpkin", "amount": "1 cup, chopped", "notes": null},
+      {"ingredient_id": "paneer", "amount": "4 pieces, roasted", "notes": null}
+    ],
+    "instructions": [
+      "Boil pumpkin until soft, then blend into a smooth soup.",
+      "Season with salt and spices.",
+      "Serve with 4 pieces of roasted paneer on the side."
+    ],
+    "nutrition": {"calories": 160, "protein_g": 8, "carbs_g": 18, "fat_g": 6, "fiber_g": 3, "estimated": true},
+    "substitutions": [],
+    "tips": ["Reference link in source for similar soup style: Instagram (Pumpkin Dal Soup)."],
+    "storage": "Refrigerate leftovers up to 2 days.",
+    "tags": ["dinner", "high_protein"]
+  },
+  {
+    "id": "spinach-soup",
+    "original_recipe": null,
+    "name": "Spinach Soup",
+    "description": "Spinach soup served with steamed vegetables and grilled paneer; Week 10 dinner.",
+    "category": "soup",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "spinach", "amount": "2 cups", "notes": null},
+      {"ingredient_id": "garlic", "amount": "1-2 cloves", "notes": null}
+    ],
+    "instructions": [
+      "Boil spinach briefly, then blend into a smooth soup with garlic, salt and spices.",
+      "Serve alongside steamed vegetables and grilled paneer."
+    ],
+    "nutrition": {"calories": 80, "protein_g": 4, "carbs_g": 8, "fat_g": 3, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 2 days.",
+    "tags": ["dinner"]
+  },
+  {
+    "id": "steamed-veggies",
+    "original_recipe": null,
+    "name": "Steamed Vegetables",
+    "description": "Simple steamed seasonal vegetables, served as a dinner side, often with paneer or in a soup pairing.",
+    "category": "side",
+    "cuisine": "general",
+    "meal_types": ["dinner"],
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1-1.5 cups", "notes": null}
+    ],
+    "instructions": [
+      "Steam vegetables of choice until just tender.",
+      "Season lightly with salt and pepper if desired."
+    ],
+    "nutrition": {"calories": 60, "protein_g": 2, "carbs_g": 10, "fat_g": 0.5, "fiber_g": 4, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 1 day.",
+    "tags": ["dinner"]
+  },
+  {
+    "id": "kabuli-chana-tikki",
+    "original_recipe": null,
+    "name": "Kabuli Chana Mixed Vegetable Tikki",
+    "description": "Pan-fried patties made from boiled white chickpeas and vegetables, dinner in Week 2.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "kabuli-chana", "amount": "1/2 cup, boiled", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1/2 cup, chopped", "notes": null},
+      {"ingredient_id": "oats-flour", "amount": "2 tbsp, if needed for binding", "notes": null}
+    ],
+    "instructions": [
+      "Boil kabuli chana and mash.",
+      "Mix in chopped vegetables.",
+      "Shape into 4-5 tikkis (patties); if mixture doesn't bind, add 2 tbsp oats flour.",
+      "Pan-roast on tawa with a little oil."
+    ],
+    "nutrition": {"calories": 200, "protein_g": 9, "carbs_g": 30, "fat_g": 4, "fiber_g": 7, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["dinner", "high_protein"]
+  },
+  {
+    "id": "beetroot-tikki",
+    "original_recipe": null,
+    "name": "Beetroot Tikki",
+    "description": "Pan-fried patties of grated beetroot, carrot, tomato, onion and oats-chickpea flour; Week 5 dinner.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "beetroot", "amount": "1, grated", "notes": null},
+      {"ingredient_id": "carrot", "amount": "1, grated", "notes": null},
+      {"ingredient_id": "tomato", "amount": "1, grated", "notes": null},
+      {"ingredient_id": "onion", "amount": "1, grated", "notes": null},
+      {"ingredient_id": "green-chillies", "amount": "to taste", "notes": null},
+      {"ingredient_id": "oats", "amount": "1/4 cup", "notes": null},
+      {"ingredient_id": "besan-flour", "amount": "1/4 cup", "notes": "chickpea flour"},
+      {"ingredient_id": "cooking-oil", "amount": "minimal, for roasting", "notes": null}
+    ],
+    "instructions": [
+      "Grate beetroot, carrot, tomato, onion, and add green chillies.",
+      "Mix in 1/2 cup combined oats + chickpea flour with spices.",
+      "Shape into tikkis (4-5 pieces).",
+      "Tawa-roast with minimal oil.",
+      "Serve with green chutney."
+    ],
+    "nutrition": {"calories": 190, "protein_g": 7, "carbs_g": 28, "fat_g": 5, "fiber_g": 6, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["dinner"]
+  },
+  {
+    "id": "green-peas-chaat",
+    "original_recipe": null,
+    "name": "Boiled Green Peas Chaat",
+    "description": "Tempered boiled green pea chaat, dinner option in Week 4.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "5-6 hrs soak",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "green-peas", "amount": "30g raw, soaked", "notes": null},
+      {"ingredient_id": "onion", "amount": "to taste", "notes": null},
+      {"ingredient_id": "tomato", "amount": "to taste", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "1 tbsp", "notes": null}
+    ],
+    "instructions": [
+      "Soak 30g green peas for 5-6 hours, then boil until mashable.",
+      "Heat 1 tbsp oil in a kadai, temper with onion, tomato etc., and add required spices.",
+      "Add boiled green peas, cook for a couple of minutes, and serve hot."
+    ],
+    "nutrition": {"calories": 150, "protein_g": 7, "carbs_g": 20, "fat_g": 5, "fiber_g": 6, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and hot.",
+    "tags": ["dinner"]
+  },
+  {
+    "id": "boiled-chickpeas-rajma-saute",
+    "original_recipe": null,
+    "name": "Sautéed Vegetables with Boiled Chickpeas or Rajma",
+    "description": "Sautéed mixed vegetables with boiled chickpeas or rajma, paired with tomato soup; Week 11 dinner.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "Soak overnight",
+    "cook_time": "20 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "kabuli-chana", "amount": "40g, boiled (or rajma)", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1 cup", "notes": "any veggies"},
+      {"ingredient_id": "cooking-oil", "amount": "minimal", "notes": null}
+    ],
+    "instructions": [
+      "Sauté any vegetables of choice with minimal oil.",
+      "Add boiled chickpeas or rajma (40g boiled) and toss together.",
+      "Serve alongside tomato soup."
+    ],
+    "nutrition": {"calories": 180, "protein_g": 9, "carbs_g": 22, "fat_g": 6, "fiber_g": 7, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Refrigerate leftovers up to 1 day.",
+    "tags": ["dinner", "high_protein"]
+  },
+  {
+    "id": "ragi-chickpea-chilla",
+    "original_recipe": null,
+    "name": "Ragi and Chickpea Flour Chilla",
+    "description": "Savory chilla made from ragi and chickpea (besan) flour with mixed vegetables; Week 5 dinner.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "ragi-flour", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "besan-flour", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "to taste", "notes": null}
+    ],
+    "instructions": [
+      "Mix ragi flour and besan with mixed vegetables and water into a batter.",
+      "Cook on tawa as a chilla (2 pieces).",
+      "Serve with green chutney."
+    ],
+    "nutrition": {"calories": 210, "protein_g": 8, "carbs_g": 32, "fat_g": 5, "fiber_g": 6, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh.",
+    "tags": ["dinner"]
+  },
+  {
+    "id": "multigrain-fulka-bottle-gourd-curry",
+    "original_recipe": null,
+    "name": "Multigrain Fulka with Bottle Gourd Curry",
+    "description": "Multigrain flatbread served with bottle gourd curry; Week 7 dinner.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "wheat-flour", "amount": "1/3 cup", "notes": "as part of multigrain mix"},
+      {"ingredient_id": "ragi-flour", "amount": "1/3 cup", "notes": "as part of multigrain mix"},
+      {"ingredient_id": "jowar-flour", "amount": "1/3 cup", "notes": "as part of multigrain mix"},
+      {"ingredient_id": "bottle-gourd", "amount": "1 cup, chopped", "notes": "for the curry"}
+    ],
+    "instructions": [
+      "Mix multigrain flours and knead into dough; roll into 2 fulkas and cook on tawa.",
+      "Separately, cook bottle gourd into a simple curry.",
+      "Serve together."
+    ],
+    "nutrition": {"calories": 220, "protein_g": 7, "carbs_g": 38, "fat_g": 4, "fiber_g": 6, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and warm.",
+    "tags": ["dinner"]
+  },
+  {
+    "id": "oats-wheat-roti",
+    "original_recipe": null,
+    "name": "Oats and Wheat Flour Roti (No Oil)",
+    "description": "Half oats, half wheat flour roti, used as a lunch/dinner side across multiple weeks.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["lunch", "dinner"],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "oats-flour", "amount": "1/2 cup", "notes": null},
+      {"ingredient_id": "wheat-flour", "amount": "1/2 cup", "notes": null}
+    ],
+    "instructions": [
+      "Mix oats flour and wheat flour 1:1.",
+      "Knead into dough, roll into roti, and cook on tawa without oil."
+    ],
+    "nutrition": {"calories": 150, "protein_g": 5, "carbs_g": 30, "fat_g": 1, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh and warm.",
+    "tags": ["lunch", "dinner", "no_oil_option"]
+  },
+  {
+    "id": "paneer-curry",
+    "original_recipe": "egg-white-curry",
+    "name": "Paneer Curry (Vegetarian)",
+    "description": "Vegetarian substitute for the Week 1 dinner dish '2 Egg White Curry' (Days 1 & 3), served with ragi+wheat roti. Paneer cubes simmered in a light home-style curry.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "paneer", "amount": "60-80g, cubed", "notes": "scaled to approximate the protein of 2 egg whites"},
+      {"ingredient_id": "onion", "amount": "to taste", "notes": null},
+      {"ingredient_id": "tomato", "amount": "to taste", "notes": null},
+      {"ingredient_id": "cooking-oil", "amount": "minimal", "notes": null}
+    ],
+    "instructions": [
+      "Make a light home-style curry base with onion and tomato, minimal oil.",
+      "Add paneer cubes and simmer briefly until heated through.",
+      "Serve with 1 roti (ragi + wheat flour)."
+    ],
+    "nutrition": {"calories": 190, "protein_g": 13, "carbs_g": 8, "fat_g": 12, "fiber_g": 2, "estimated": true},
+    "substitutions": ["Tofu curry (priority 2)", "Soya chunk curry (priority 3)"],
+    "tips": ["Substituted from the original egg white curry recipe per lacto-vegetarian conversion."],
+    "storage": "Refrigerate leftovers up to 1 day.",
+    "tags": ["dinner", "vegetarian_substitution", "high_protein"]
+  },
+  {
+    "id": "paneer-franky",
+    "original_recipe": "egg-franky-palak-chapathi",
+    "name": "Paneer Franky with Palak Chapathi (Vegetarian)",
+    "description": "Vegetarian substitute for the Week 2 dinner dish '1 Egg Franky made with palak chapathi' (Days 2 & 7). Spiced paneer rolled into a spinach flatbread wrap, mirroring the franky-style roll used elsewhere in the program (Palak Paneer Roti Rolls, Week 11).",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "palak", "amount": "1 cup, pureed", "notes": "for the chapathi dough"},
+      {"ingredient_id": "wheat-flour", "amount": "1 cup", "notes": null},
+      {"ingredient_id": "paneer", "amount": "4-5 pieces (~60-80g)", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1/2 cup, chopped", "notes": "for the filling"}
+    ],
+    "instructions": [
+      "Knead spinach puree into wheat flour dough and make a chapathi.",
+      "Top the chapathi with paneer pieces and chopped vegetables.",
+      "Roll it up like a franky (wrap)."
+    ],
+    "nutrition": {"calories": 230, "protein_g": 13, "carbs_g": 30, "fat_g": 9, "fiber_g": 5, "estimated": true},
+    "substitutions": ["Tofu franky (priority 2)"],
+    "tips": ["Substituted from the original egg franky recipe per lacto-vegetarian conversion; mirrors the same roll/franky method already used for the Palak Paneer Roti Roll recipe elsewhere in the program."],
+    "storage": "Best served fresh.",
+    "tags": ["dinner", "vegetarian_substitution", "high_protein"]
+  },
+  {
+    "id": "palak-paneer-roti-roll",
+    "original_recipe": null,
+    "name": "Palak Paneer Roti Roll (Franky-Style)",
+    "description": "Spinach roti topped with paneer and vegetables, rolled franky-style; Week 11 dinner.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": ["dinner"],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {"ingredient_id": "palak", "amount": "1 cup, pureed", "notes": null},
+      {"ingredient_id": "wheat-flour", "amount": "1 cup", "notes": null},
+      {"ingredient_id": "paneer", "amount": "4-5 pieces", "notes": null},
+      {"ingredient_id": "mixed-vegetables-generic", "amount": "1/2 cup", "notes": null}
+    ],
+    "instructions": [
+      "Add spinach paste to dough and make chapathi.",
+      "Top with 4-5 pieces of paneer and some vegetables.",
+      "Roll it up like a franky."
+    ],
+    "nutrition": {"calories": 230, "protein_g": 13, "carbs_g": 30, "fat_g": 9, "fiber_g": 5, "estimated": true},
+    "substitutions": [],
+    "tips": [],
+    "storage": "Best served fresh.",
+    "tags": ["dinner", "high_protein"]
+  }
+]

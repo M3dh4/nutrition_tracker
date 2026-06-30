@@ -1,0 +1,66 @@
+{
+  "exercise": {
+    "daily_walk": {
+      "duration": "40-45 minutes per day",
+      "intensity": "Brisk walk",
+      "variant": "'Moon charged walking' offered as an alternative on some weeks (Weeks 1, 3, 8, 10) - exact technique not detailed in source documents."
+    }
+  },
+  "meal_timing_schedule": [
+    {"meal": "Early Morning", "timing": "Within 1 hour of waking"},
+    {"meal": "Breakfast", "timing": "No later than 10am"},
+    {"meal": "Mid-Morning", "timing": "11am-12pm, between breakfast and lunch"},
+    {"meal": "Lunch", "timing": "12:30-2:30pm, never later than 4pm"},
+    {"meal": "Mid-Evening", "timing": "4-6pm, between lunch and dinner"},
+    {"meal": "Dinner", "timing": "7-9pm, never later than 10pm"}
+  ],
+  "eating_practices": [
+    "Eat sitting down; chew well.",
+    "Avoid passive entertainment while eating (no TV, computer, cell phone, tablets, or reading).",
+    "Eat a small plate of salad first, before the main meal.",
+    "Chew a 1-inch piece of fresh ginger with lemon juice and a pinch of salt before meals to stimulate digestion.",
+    "Make lunch the largest meal of the day; keep dinner light (thin soups, light salads).",
+    "Avoid snacking between meals; let hunger build naturally.",
+    "Stop eating before reaching maximum fullness; skip second or third helpings.",
+    "Practice Vajrasan (seated yoga posture) for 10 minutes right after a meal to aid digestion, unless there is a leg or knee injury.",
+    "Fast periodically, at least once per season, using one of the four fasting protocols described in nutrition_guidelines.json."
+  ],
+  "sleep_and_wellbeing": [
+    "No specific sleep duration or bedtime guidance was provided in the source documents beyond meal timing relative to bedtime (e.g. bedtime drinks taken 1 hour before bed).",
+    "Strive to align work and daily goals with personal talents and passions, and make room for fun and laughter, as this is described as supporting overall wellbeing ('a belly full of laughs is a hot belly indeed')."
+  ],
+  "program_policies": {
+    "note": "This section preserves the business/consultation terms found in Jonnas_Kitchen_Guidelines.docx and the guideline sections of individual weekly meal plans. These are program administration policies rather than nutrition content, but are retained here per the instruction to omit nothing.",
+    "terms_and_conditions": [
+      "Use of services is subject to the client's compliance with and acceptance of the program's terms and conditions; subscribing or using any service constitutes agreement to be bound by these terms.",
+      "After receiving a meal plan, clients should review it, note any questions, and arrange a call to discuss/clarify if needed.",
+      "Clients must send a starting weight photo upon beginning the diet, and a weight photo every 3 days (at minimum weekly), to help monitor and track progress.",
+      "Before-and-after photos are required upon completion of the program.",
+      "Client details are kept private and will never be disclosed.",
+      "Further meal plans are issued based on the client's previous week's weight loss/progress; without a weight update, no further meal plan will be shared, and the program creator will create the next plan strictly based on demonstrated progress. If there is no weight loss or weight is stuck, the meal plan will be changed accordingly.",
+      "Refunds are not possible once a meal plan has been shared, at any point in the program; meal plans are non-transferable to any other person.",
+      "Alternatives can be arranged for any diet element that isn't feasible for the client, simplified as needed via chat, call, or email.",
+      "All client queries should be asked only once per day; clients should plan their day accordingly and check their meal plan one day in advance for alternatives or suggestions.",
+      "Meal plans are customized only based on the client's previous week's weight loss; without an update, no further plans will be issued, or the same diet may be repeated.",
+      "Consultation validity is limited to either 6 weeks or 12 weeks, depending on the chosen program. Example: a 6-week program starting Jan 1 would nominally run to Feb 15; meal plans within this window are issued based on actual progress (which may total fewer than 6 distinct plans). After 45 days, the program expires and no further plans or support are provided. A 12-week program follows the same logic over a 90-day window, expiring after 90 days.",
+      "The program creator is not responsible if the client does not follow the diet for any reason.",
+      "All meals are described as simple, home-cooked food.",
+      "Program duration cannot be extended or paused under any circumstances.",
+      "Meal plate photos should be sent to the consultant by the end of each day.",
+      "Weight should be tracked every 3 days (minimum weekly), on an empty stomach, along with a progress photo, starting as soon as the diet begins.",
+      "Failing to update weight when requested will result in the program/plan being terminated.",
+      "Clients are asked not to share their meal plan with anyone, as it is customized to their individual health condition and may not be suitable for others.",
+      "No cheats are allowed in between the prescribed program."
+    ],
+    "consultant_availability": {
+      "note": "Contact/availability details were listed identically in Week 1 and Week 11 documents.",
+      "schedule": [
+        {"days": "Monday to Friday", "hours": "9 AM to 1 PM and 5 PM to 7 PM (Week 11 document); 9 AM to 6 PM (Week 1 document - the two source documents differ slightly on weekday hours)"},
+        {"days": "Saturday", "hours": "9 AM to 1 PM"},
+        {"days": "Sunday", "hours": "Holiday (closed)"}
+      ],
+      "emergency_contact": "8309960987 (for emergencies/urgent matters only, as listed in source documents)",
+      "data_handling_note": "This phone number is personal contact information taken directly from the uploaded source documents. Flagging for review before this dataset is used in any production system, since storing and exposing a personal phone number in a public-facing database may not be appropriate or intended."
+    }
+  }
+}

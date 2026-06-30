@@ -1,0 +1,169 @@
+{
+  "general_principles": [
+    {
+      "id": "ng-001",
+      "guideline": "This is not a restrictive diet; it is a nutritious, balanced plan designed to work towards a healthier you. It is flexible and adapts to any lifestyle or situation.",
+      "source": "BASIC_HEALTHY_DIET Guidelines"
+    },
+    {
+      "id": "ng-002",
+      "guideline": "Good nutrition is an important part of leading a healthy lifestyle. Combined with physical activity, diet helps reach and maintain a healthy weight and reduce risk of chronic diseases.",
+      "source": "Repeated across most weekly meal plan documents"
+    },
+    {
+      "id": "ng-003",
+      "guideline": "Use only 3-4 tablespoons of oil per day, preferably cold-pressed oil.",
+      "source": "BASIC_HEALTHY_DIET Guidelines; reiterated in Week 5"
+    },
+    {
+      "id": "ng-004",
+      "guideline": "Avoid using oil at dinner specifically (Week 5 guidance), though minor exceptions occur for tadka/tempering in specific dinner recipes.",
+      "source": "Week 5 meal plan"
+    },
+    {
+      "id": "ng-005",
+      "guideline": "No spice podis/powders should be used in curries, such as peanut podi or dry coconut podi.",
+      "source": "BASIC_HEALTHY_DIET Guidelines"
+    },
+    {
+      "id": "ng-006",
+      "guideline": "Avoid packaged/processed foods entirely: no biscuits, cookies, chips, instant foods, bakery items, or other packaged food.",
+      "source": "BASIC_HEALTHY_DIET Guidelines"
+    },
+    {
+      "id": "ng-007",
+      "guideline": "Eat foods filled with 'life' - avoid processed, packaged, or reheated/leftover foods.",
+      "source": "My Tips for you to Follow (PDF)"
+    },
+    {
+      "id": "ng-008",
+      "guideline": "Avoid bad food combinations that weaken digestion: milk with meat, fish, or eggs; eggs with bananas; fruits with milk; milk with melons; ghee with honey. (Note: meat/fish/egg references are non-applicable in this fully vegetarian dataset but preserved for completeness of the original guidance.)",
+      "source": "My Tips for you to Follow (PDF)"
+    },
+    {
+      "id": "ng-009",
+      "guideline": "Avoid curd, banana, radish, and cucumber at night/dinner.",
+      "source": "My Tips for you to Follow (PDF); reinforced by 'avoid cucumber for dinner' notes in Week 11"
+    },
+    {
+      "id": "ng-010",
+      "guideline": "Lunch should be the biggest meal of the day (digestion is strongest at midday); dinner should be light, e.g. thin broth soups and light salads. Eat like a king during the day and a pauper at night.",
+      "source": "My Tips for you to Follow (PDF)"
+    },
+    {
+      "id": "ng-011",
+      "guideline": "Avoid eating between meals; let hunger build before the next meal (no snacking).",
+      "source": "My Tips for you to Follow (PDF)"
+    },
+    {
+      "id": "ng-012",
+      "guideline": "Sip warm fluids throughout the day; avoid cold and carbonated drinks. Warm water stokes digestive fire, improves digestion, and helps prevent fat accumulation.",
+      "source": "My Tips for you to Follow (PDF)"
+    },
+    {
+      "id": "ng-013",
+      "guideline": "Sit down to eat, chew well, and avoid passive entertainment while eating (no TV, computer, cell phone, tablets, or reading).",
+      "source": "My Tips for you to Follow (PDF)"
+    },
+    {
+      "id": "ng-014",
+      "guideline": "Spice meals with fresh ginger, cumin, black pepper, turmeric, and fenugreek to enhance digestion and support weight loss goals.",
+      "source": "My Tips for you to Follow (PDF)"
+    },
+    {
+      "id": "ng-015",
+      "guideline": "Eat less, live longer - watch portions; skip second or third helpings and stop eating before reaching maximum fullness.",
+      "source": "My Tips for you to Follow (PDF)"
+    },
+    {
+      "id": "ng-016",
+      "guideline": "Respect the 24-hour solar day - time meals to align with the body's natural digestive rhythm.",
+      "source": "My Tips for you to Follow (PDF)"
+    },
+    {
+      "id": "ng-017",
+      "guideline": "Have a 1-inch piece of fresh ginger with a few drops of lemon juice and a pinch of salt, chewed before meals, to activate salivary glands and improve nutrient absorption.",
+      "source": "Repeated across Weeks 4, 8, 9, 10"
+    },
+    {
+      "id": "ng-018",
+      "guideline": "Eat a small plate of salad first, before starting the main meal (both lunch and dinner).",
+      "source": "Repeated across nearly all weekly meal plans"
+    },
+    {
+      "id": "ng-019",
+      "guideline": "Sample recipe links and measurement guidance are available in the BASIC_HEALTHY_DIET document; please follow the plan as written since deviation from the plan gives no results.",
+      "source": "Weeks 1 and 11 guidelines section"
+    },
+    {
+      "id": "ng-020",
+      "guideline": "Avoid potato, corn, raw banana, packed food, sugar, and honey throughout the program.",
+      "source": "BASIC_HEALTHY_DIET Guidelines"
+    },
+    {
+      "id": "ng-021",
+      "guideline": "Restrict white rice and potato; can substitute any sabzi/vegetable with dal or leafy vegetables.",
+      "source": "Weeks 5 and 9 instructions"
+    },
+    {
+      "id": "ng-022",
+      "guideline": "Avoid maida (refined flour), sweets, sugars, high-GI foods, packaged or bakery products, and potatoes.",
+      "source": "Week 11"
+    },
+    {
+      "id": "ng-023",
+      "guideline": "Reduce consumption of potato, yam, and tapioca.",
+      "source": "BASIC_HEALTHY_DIET Guidelines"
+    },
+    {
+      "id": "ng-024",
+      "guideline": "Avoid too much sweet food and avoid deep fried food, even on a scheduled cheat meal.",
+      "source": "BASIC_HEALTHY_DIET Guidelines"
+    },
+    {
+      "id": "ng-025",
+      "guideline": "When eating out / on a cheat meal: eat per your portion size, avoid too much sweet, avoid deep fried food, prefer grilled and less oily protein, no sauces or mayo.",
+      "source": "BASIC_HEALTHY_DIET Guidelines"
+    },
+    {
+      "id": "ng-026",
+      "guideline": "Avoid Maida, sweets, sugars, high-GI foods, packed/bakery products, and potatoes (repeated emphasis, Week 11 dinner section).",
+      "source": "Week 11"
+    },
+    {
+      "id": "ng-027",
+      "guideline": "Tea and coffee only in the evening, with less sugar, and limited to 100ml per day combined; never on an empty stomach.",
+      "source": "BASIC_HEALTHY_DIET Guidelines"
+    },
+    {
+      "id": "ng-028",
+      "guideline": "Avoid Packet Milk; use only local dairy farm milk - never use slim/low-fat packaged milk.",
+      "source": "BASIC_HEALTHY_DIET Guidelines"
+    },
+    {
+      "id": "ng-029",
+      "guideline": "No cheats allowed in between the scheduled program; refunds are not possible once a meal plan has been shared.",
+      "source": "BASIC_HEALTHY_DIET Guidelines / Jonnas_Kitchen_Guidelines"
+    },
+    {
+      "id": "ng-030",
+      "guideline": "Fast a few times a year, or at least once a season ('detox on the equinox'). Four fasting protocols from least to most vigorous: (1) light, easily digestible foods only such as khichadi, soupy broths, warm herbal teas; (2) fruits, vegetables, or fresh juices only; (3) avoiding solid foods and drinking only water or herbal teas; (a fourth, most vigorous protocol was referenced but not detailed in the source text).",
+      "source": "My Tips for you to Follow (PDF)"
+    },
+    {
+      "id": "ng-031",
+      "guideline": "Strive to align your goals, values, talents, and passions in work that supports your livelihood and gives a sense of appreciation; make room for fun and laughter, as laughter lightens the body and heightens awareness ('a belly full of laughs is a hot belly indeed').",
+      "source": "My Tips for you to Follow (PDF)"
+    }
+  ],
+  "weight_loss_protocol_notes": [
+    {
+      "id": "ngw-001",
+      "note": "Meal plans are customized week-to-week based on the individual's prior week's weight loss progress; without a weight update, no further meal plan will be issued, or the same diet may be repeated."
+    },
+    {
+      "id": "ngw-002",
+      "note": "If there is no weight loss or weight is stuck, the meal plan will be changed accordingly."
+    }
+  ]
+}
