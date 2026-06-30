@@ -16,7 +16,7 @@ export default function RecipePage({ params }) {
         &larr; Back to home
       </Link>
 
-      <h1 className="text-2xl font-bold mb-1">{recipe.name}</h1>
+      <h1 className="text-xl font-bold mb-1">{recipe.name}</h1>
       {recipe.description && <p className="text-gray-700 mb-4">{recipe.description}</p>}
 
       <div className="flex flex-wrap gap-3 text-sm font-medium mb-6">

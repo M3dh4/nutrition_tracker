@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { mealPlans, getWeekPlan } from "../../../data/mealPlans";
-import MealRow from "../../../components/MealRow";
+import WeekDayView from "../../../components/WeekDayView";
 
 export function generateStaticParams() {
   return mealPlans.map((w) => ({ id: String(w.week) }));
@@ -11,27 +11,43 @@ export default function WeekPage({ params }) {
   const week = getWeekPlan(params.id);
   if (!week) return notFound();
 
+  const weekNum = Number(params.id);
+  const allWeeks = mealPlans.filter((w) => w.week !== 12).map((w) => w.week);
+  const prevWeek = allWeeks.includes(weekNum - 1) ? weekNum - 1 : null;
+  const nextWeek = allWeeks.includes(weekNum + 1) ? weekNum + 1 : null;
+
   return (
     <div>
-      <Link href="/" className="inline-block mb-4 underline text-accentDark font-medium">
-        &larr; Back to all weeks
+      <Link href="/" className="inline-block mb-3 text-sm underline text-accentDark font-medium">
+        &larr; All weeks
       </Link>
 
-      <h1 className="text-2xl font-bold mb-1">{week.title}</h1>
-      {week.notes && <p className="text-gray-700 mb-6">{week.notes}</p>}
-
-      <div className="space-y-10">
-        {week.days.map((day) => (
-          <section key={day.day}>
-            <h2 className="text-xl font-bold mb-3 border-b-2 border-ink pb-1">Day {day.day}</h2>
-            <div className="space-y-3">
-              {day.meals.map((meal, idx) => (
-                <MealRow key={idx} meal={meal} />
-              ))}
-            </div>
-          </section>
-        ))}
+      <div className="flex items-center justify-between mb-1">
+        {prevWeek ? (
+          <Link
+            href={`/week/${prevWeek}`}
+            className="text-sm font-bold border-2 border-ink rounded-full w-9 h-9 flex items-center justify-center"
+          >
+            &larr;
+          </Link>
+        ) : (
+          <span className="w-9 h-9" />
+        )}
+        <h1 className="text-lg font-bold">Week {weekNum}</h1>
+        {nextWeek ? (
+          <Link
+            href={`/week/${nextWeek}`}
+            className="text-sm font-bold border-2 border-ink rounded-full w-9 h-9 flex items-center justify-center"
+          >
+            &rarr;
+          </Link>
+        ) : (
+          <span className="w-9 h-9" />
+        )}
       </div>
+      {week.notes && <p className="text-xs text-gray-600 mb-4 text-center">{week.notes}</p>}
+
+      <WeekDayView days={week.days} />
     </div>
   );
 }
