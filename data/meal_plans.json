@@ -527,8 +527,8 @@
           },
           {
             "meal_type": "dinner",
-            "recipe_id": "besan-chilla",
-            "serving": "2 mixed veg jowar+oats chilla with green chutney",
+            "recipe_id": "paneer-frankie",
+            "serving": "1 paneer frankie roll (palak chapathi with paneer & veg filling)",
             "notes": null,
             "timing": "7-9pm",
             "optional_items": []
@@ -1694,8 +1694,8 @@
           },
           {
             "meal_type": "dinner",
-            "recipe_id": "paneer-tikka",
-            "serving": "1 bowl steamed veggies + paneer tikka (4-5 pieces)",
+            "recipe_id": "soya-keema-franky",
+            "serving": "1 soya keema franky roll (palak chapathi with soya keema filling)",
             "notes": null,
             "timing": "7-9pm",
             "optional_items": []
@@ -2454,8 +2454,8 @@
           },
           {
             "meal_type": "dinner",
-            "recipe_id": "paneer-tikka",
-            "serving": "5 pieces paneer tikka or paneer sautéed with veggies, less oil + green chutney",
+            "recipe_id": "paneer-frankie",
+            "serving": "1 paneer frankie roll (palak chapathi with paneer & veg filling)",
             "notes": null,
             "timing": "7-9pm",
             "optional_items": []
@@ -3766,8 +3766,8 @@
           },
           {
             "meal_type": "dinner",
-            "recipe_id": "paneer-tikka",
-            "serving": "Paneer tikka (4-5 pieces) + salad",
+            "recipe_id": "soya-keema-franky",
+            "serving": "1 soya keema franky roll (palak chapathi with soya keema filling)",
             "notes": null,
             "timing": "7-9pm",
             "optional_items": []
@@ -4582,8 +4582,8 @@
           },
           {
             "meal_type": "dinner",
-            "recipe_id": "paneer-tikka",
-            "serving": "5 pieces paneer tikka with less oil with chutney",
+            "recipe_id": "paneer-frankie",
+            "serving": "1 paneer frankie roll (palak chapathi with paneer & veg filling)",
             "notes": null,
             "timing": "7-9pm",
             "optional_items": []
@@ -5862,8 +5862,8 @@
           },
           {
             "meal_type": "dinner",
-            "recipe_id": "besan-chilla",
-            "serving": "2 mix veg besan chilla with mint chutney",
+            "recipe_id": "soya-keema-franky",
+            "serving": "1 soya keema franky roll (palak chapathi with soya keema filling)",
             "notes": null,
             "timing": "7-9pm",
             "optional_items": []

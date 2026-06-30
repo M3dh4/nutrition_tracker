@@ -5203,5 +5203,79 @@
       "high_protein",
       "low_oil"
     ]
+  },
+  {
+    "id": "paneer-frankie",
+    "original_recipe": null,
+    "name": "Paneer Frankie with Palak Chapathi",
+    "description": "Lightly spiced grated paneer and mixed vegetables rolled into a spinach flatbread wrap — a richer, protein-forward counterpart to the Soya Keema Franky.",
+    "category": "main",
+    "cuisine": "indian",
+    "meal_types": [
+      "dinner"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": 1,
+    "ingredients": [
+      {
+        "ingredient_id": "palak",
+        "amount": "1 cup, pureed",
+        "notes": "for the chapathi dough"
+      },
+      {
+        "ingredient_id": "wheat-flour",
+        "amount": "1 cup",
+        "notes": null
+      },
+      {
+        "ingredient_id": "paneer",
+        "amount": "60-80g",
+        "notes": "grated or crumbled, low-fat preferred"
+      },
+      {
+        "ingredient_id": "capsicum",
+        "amount": "1/4 cup",
+        "notes": "thinly sliced"
+      },
+      {
+        "ingredient_id": "onion",
+        "amount": "1/4 cup",
+        "notes": "thinly sliced"
+      },
+      {
+        "ingredient_id": "chaat-masala",
+        "amount": "1/4 tsp",
+        "notes": "to taste"
+      }
+    ],
+    "instructions": [
+      "Knead spinach puree into wheat flour dough and roll out a thin chapathi; cook on a dry tawa with a few drops of oil.",
+      "Lightly saute the paneer with capsicum and onion on low heat for 2-3 minutes; sprinkle chaat masala.",
+      "Spread the paneer-vegetable mix over the chapathi.",
+      "Roll it up tightly like a franky (wrap) and serve warm."
+    ],
+    "nutrition": {
+      "calories": 235,
+      "protein_g": 14,
+      "carbs_g": 28,
+      "fat_g": 8,
+      "fiber_g": 5,
+      "estimated": true
+    },
+    "substitutions": [
+      "Use low-fat paneer or tofu to reduce overall fat further.",
+      "Swap in the Soya Keema Franky on alternating weeks for variety."
+    ],
+    "tips": [
+      "Keep the paneer saute light on oil since the dish already carries protein and some fat from paneer.",
+      "Pairs well as an occasional dinner change-up — not an everyday item given the paneer fat content."
+    ],
+    "storage": "Best served fresh; chapathi can be made ahead and reheated.",
+    "tags": [
+      "dinner",
+      "high_protein",
+      "wrap"
+    ]
   }
 ]
