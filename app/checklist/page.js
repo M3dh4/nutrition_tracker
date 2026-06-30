@@ -1,35 +1,60 @@
-import Link from "next/link";
-import { mealPlans } from "../data/mealPlans";
+import { dailyChecklist, foodsToAvoid, bpDiabetesGuidance } from "../../data/checklist";
 
-export default function HomePage() {
-  const weeks = mealPlans.filter((w) => w.week !== 12);
+export const metadata = {
+  title: "Checklist & Help — Nutrition Tracker",
+};
 
+export default function ChecklistPage() {
   return (
     <div>
-      <h1 className="text-xl font-bold mb-1">Your Meal Plan</h1>
-      <p className="text-sm text-gray-600 mb-4">
-        Low-sodium, low-glycemic guidance for Diabetes &amp; BP.
+      <h1 className="text-xl font-bold mb-1">Checklist &amp; Help</h1>
+      <p className="text-sm text-gray-500 mb-6">
+        Daily reminders for managing Diabetes and High Blood Pressure.
       </p>
 
-      <Link
-        href="/checklist"
-        className="block w-full text-center mb-5 bg-accent text-white text-base font-bold py-3 rounded-xl border-2 border-accentDark active:bg-accentDark"
-      >
-        Checklist &amp; Help
-      </Link>
+      <section className="mb-8">
+        <h2 className="text-lg font-bold mb-3 text-accentDark">Daily Checklist</h2>
+        <ul className="space-y-2.5">
+          {dailyChecklist.map((item) => (
+            <li key={item.id} className="bg-card shadow-card rounded-2xl p-4">
+              <p className="font-bold text-base text-ink">{item.label}</p>
+              <p className="text-gray-600 text-sm mt-1">{item.detail}</p>
+            </li>
+          ))}
+        </ul>
+      </section>
 
-      <p className="text-sm font-semibold text-gray-700 mb-2">Select a week</p>
-      <div className="grid grid-cols-4 gap-2">
-        {weeks.map((w) => (
-          <Link
-            key={w.week}
-            href={`/week/${w.week}`}
-            className="flex items-center justify-center aspect-square border-2 border-ink rounded-xl bg-white active:bg-okBg"
-          >
-            <span className="text-xl font-bold">{w.week}</span>
-          </Link>
-        ))}
-      </div>
+      <section className="mb-8">
+        <h2 className="text-lg font-bold mb-3 text-accentDark">Diabetes &amp; Blood Pressure Guidance</h2>
+        <div className="space-y-3">
+          <GuidanceBlock title="Sodium limits" text={bpDiabetesGuidance.sodium} />
+          <GuidanceBlock title="Blood sugar / glycemic guidance" text={bpDiabetesGuidance.glycemic} />
+          <GuidanceBlock title="Monitoring" text={bpDiabetesGuidance.monitoring} />
+          <GuidanceBlock title="When to seek urgent care" text={bpDiabetesGuidance.emergency} warn />
+        </div>
+      </section>
+
+      <section>
+        <h2 className="text-lg font-bold mb-3 text-accentDark">Foods to Avoid</h2>
+        <ul className="space-y-2.5">
+          {foodsToAvoid.map((item, idx) => (
+            <li key={idx} className="bg-warnSoft rounded-2xl p-4">
+              <p className="font-bold text-base text-warn">{item.food}</p>
+              <p className="text-gray-700 text-sm mt-1">{item.reason}</p>
+              <p className="text-xs text-gray-500 mt-1">{item.conditions}</p>
+            </li>
+          ))}
+        </ul>
+      </section>
     </div>
   );
-} 
+}
+
+function GuidanceBlock({ title, text, warn }) {
+  return (
+    <div className={`rounded-2xl p-4 ${warn ? "bg-warnSoft" : "bg-accentSoft"}`}>
+      <p className={`font-bold mb-1 ${warn ? "text-warn" : "text-accentDark"}`}>{title}</p>
+      <p className="text-sm text-gray-700">{text}</p>
+    </div>
+  );
+}

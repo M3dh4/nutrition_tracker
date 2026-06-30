@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { mealPlans, getWeekPlan } from "../../../data/mealPlans";
 import WeekDayView from "../../../components/WeekDayView";
+import BackButton from "../../../components/BackButton";
 
 export function generateStaticParams() {
   return mealPlans.map((w) => ({ id: String(w.week) }));
@@ -18,15 +19,13 @@ export default function WeekPage({ params }) {
 
   return (
     <div>
-      <Link href="/" className="inline-block mb-3 text-sm underline text-accentDark font-medium">
-        &larr; All weeks
-      </Link>
+      <BackButton label="All weeks" fallbackHref="/" />
 
       <div className="flex items-center justify-between mb-1">
         {prevWeek ? (
           <Link
             href={`/week/${prevWeek}`}
-            className="text-sm font-bold border-2 border-ink rounded-full w-9 h-9 flex items-center justify-center"
+            className="text-sm font-bold rounded-full w-9 h-9 flex items-center justify-center bg-card shadow-card text-accentDark"
           >
             &larr;
           </Link>
@@ -37,7 +36,7 @@ export default function WeekPage({ params }) {
         {nextWeek ? (
           <Link
             href={`/week/${nextWeek}`}
-            className="text-sm font-bold border-2 border-ink rounded-full w-9 h-9 flex items-center justify-center"
+            className="text-sm font-bold rounded-full w-9 h-9 flex items-center justify-center bg-card shadow-card text-accentDark"
           >
             &rarr;
           </Link>
@@ -45,7 +44,7 @@ export default function WeekPage({ params }) {
           <span className="w-9 h-9" />
         )}
       </div>
-      {week.notes && <p className="text-xs text-gray-600 mb-4 text-center">{week.notes}</p>}
+      {week.notes && <p className="text-xs text-gray-500 mb-4 text-center">{week.notes}</p>}
 
       <WeekDayView days={week.days} />
     </div>

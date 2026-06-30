@@ -14,10 +14,10 @@ export default function WeekDayView({ days }) {
           <button
             key={d.day}
             onClick={() => setActiveDay(d.day)}
-            className={`shrink-0 px-4 py-2 rounded-full border-2 font-bold text-sm ${
+            className={`shrink-0 px-4 py-2 rounded-full font-bold text-sm transition-colors ${
               d.day === activeDay
-                ? "bg-accent text-white border-accentDark"
-                : "bg-white text-ink border-ink"
+                ? "bg-accent text-white shadow-card"
+                : "bg-card text-gray-600 shadow-card"
             }`}
           >
             Day {d.day}
